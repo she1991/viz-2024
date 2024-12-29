@@ -1,0 +1,2 @@
+requests==2.31.0
+jsify==0.9.7  # For JSON manipulation 
