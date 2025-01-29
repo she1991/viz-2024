@@ -26,11 +26,11 @@ def analyze_state(state_obj):
     # Analyze each county
     analyzed_counties = [analyze_county(county) for county in counties]
     
-    # Calculate state-level metrics
-    any_county_flipped = any(any(county.get("flip", [])) for county in counties)
-    flipped_2024 = any(safe_get_flip(county, 2) for county in counties)
-    flipped_2020 = any(safe_get_flip(county, 1) for county in counties)
-    flipped_2016 = any(safe_get_flip(county, 0) for county in counties)
+    # Calculate state-level metrics (counting instead of boolean)
+    flipped_count = sum(1 for county in counties if any(county.get("flip", [])))
+    flipped_2024_count = sum(1 for county in counties if safe_get_flip(county, 2))
+    flipped_2020_count = sum(1 for county in counties if safe_get_flip(county, 1))
+    flipped_2016_count = sum(1 for county in counties if safe_get_flip(county, 0))
     
     consistently_democratic_count = sum(
         1 for county in analyzed_counties if county["consistentlyDemocratic"]
@@ -42,10 +42,10 @@ def analyze_state(state_obj):
     return {
         "state": state_code,
         "allCounties": len(counties),
-        "flipped": any_county_flipped,
-        "flipped2024": flipped_2024,
-        "flipped2020": flipped_2020,
-        "flipped2016": flipped_2016,
+        "flipped": flipped_count,
+        "flipped2024": flipped_2024_count,
+        "flipped2020": flipped_2020_count,
+        "flipped2016": flipped_2016_count,
         "consistentlyDemocratic": consistently_democratic_count,
         "consistentlyRepublican": consistently_republican_count,
         "counties": analyzed_counties
