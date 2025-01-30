@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "serve"
+    "start": "serve -s build"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.26.3",
