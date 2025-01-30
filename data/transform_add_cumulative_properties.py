@@ -93,10 +93,10 @@ def create_flip_category_states(transformed_states):
         {
             "state": "Counties Which Flipped",
             "allCounties": len(all_flipped),
-            "flipped": True,
-            "flipped2024": any(safe_get_flip(county, 2) for county in all_flipped),
-            "flipped2020": any(safe_get_flip(county, 1) for county in all_flipped),
-            "flipped2016": any(safe_get_flip(county, 0) for county in all_flipped),
+            "flipped": sum(1 for county in all_flipped if any(county.get("flip", []))),
+            "flipped2024": sum(1 for county in all_flipped if safe_get_flip(county, 2)),
+            "flipped2020": sum(1 for county in all_flipped if safe_get_flip(county, 1)),
+            "flipped2016": sum(1 for county in all_flipped if safe_get_flip(county, 0)),
             "consistentlyDemocratic": 0,
             "consistentlyRepublican": 0,
             "counties": all_flipped
@@ -104,10 +104,10 @@ def create_flip_category_states(transformed_states):
         {
             "state": "Flipped Once",
             "allCounties": len(flipped_once),
-            "flipped": True,
-            "flipped2024": any(safe_get_flip(county, 2) for county in flipped_once),
-            "flipped2020": any(safe_get_flip(county, 1) for county in flipped_once),
-            "flipped2016": any(safe_get_flip(county, 0) for county in flipped_once),
+            "flipped": sum(1 for county in flipped_once if any(county.get("flip", []))),
+            "flipped2024": sum(1 for county in flipped_once if safe_get_flip(county, 2)),
+            "flipped2020": sum(1 for county in flipped_once if safe_get_flip(county, 1)),
+            "flipped2016": sum(1 for county in flipped_once if safe_get_flip(county, 0)),
             "consistentlyDemocratic": 0,
             "consistentlyRepublican": 0,
             "counties": flipped_once
@@ -115,10 +115,10 @@ def create_flip_category_states(transformed_states):
         {
             "state": "Flipped Twice",
             "allCounties": len(flipped_twice),
-            "flipped": True,
-            "flipped2024": any(safe_get_flip(county, 2) for county in flipped_twice),
-            "flipped2020": any(safe_get_flip(county, 1) for county in flipped_twice),
-            "flipped2016": any(safe_get_flip(county, 0) for county in flipped_twice),
+            "flipped": sum(1 for county in flipped_twice if any(county.get("flip", []))),
+            "flipped2024": sum(1 for county in flipped_twice if safe_get_flip(county, 2)),
+            "flipped2020": sum(1 for county in flipped_twice if safe_get_flip(county, 1)),
+            "flipped2016": sum(1 for county in flipped_twice if safe_get_flip(county, 0)),
             "consistentlyDemocratic": 0,
             "consistentlyRepublican": 0,
             "counties": flipped_twice
@@ -126,10 +126,10 @@ def create_flip_category_states(transformed_states):
         {
             "state": "Flipped Thrice",
             "allCounties": len(flipped_thrice),
-            "flipped": True,
-            "flipped2024": any(safe_get_flip(county, 2) for county in flipped_thrice),
-            "flipped2020": any(safe_get_flip(county, 1) for county in flipped_thrice),
-            "flipped2016": any(safe_get_flip(county, 0) for county in flipped_thrice),
+            "flipped": sum(1 for county in flipped_thrice if any(county.get("flip", []))),
+            "flipped2024": sum(1 for county in flipped_thrice if safe_get_flip(county, 2)),
+            "flipped2020": sum(1 for county in flipped_thrice if safe_get_flip(county, 1)),
+            "flipped2016": sum(1 for county in flipped_thrice if safe_get_flip(county, 0)),
             "consistentlyDemocratic": 0,
             "consistentlyRepublican": 0,
             "counties": flipped_thrice
