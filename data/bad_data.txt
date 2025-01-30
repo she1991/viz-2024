@@ -1,0 +1,169 @@
+AK:
+  - Alaska: Flip array has 1 elements, expected 3
+  - ED 1: Missing flip property
+  - ED 2: Missing flip property
+  - ED 3: Missing flip property
+  - ED 4: Missing flip property
+  - ED 5: Missing flip property
+  - ED 6: Missing flip property
+  - ED 7: Missing flip property
+  - ED 8: Missing flip property
+  - ED 9: Missing flip property
+  - ED 10: Missing flip property
+  - ED 11: Missing flip property
+  - ED 12: Missing flip property
+  - ED 13: Missing flip property
+  - ED 14: Missing flip property
+  - ED 15: Missing flip property
+  - ED 16: Missing flip property
+  - ED 17: Missing flip property
+  - ED 18: Missing flip property
+  - ED 19: Missing flip property
+  - ED 20: Missing flip property
+  - ED 21: Missing flip property
+  - ED 22: Missing flip property
+  - ED 23: Missing flip property
+  - ED 24: Missing flip property
+  - ED 25: Missing flip property
+  - ED 26: Missing flip property
+  - ED 27: Missing flip property
+  - ED 28: Missing flip property
+  - ED 29: Missing flip property
+  - ED 30: Missing flip property
+  - ED 31: Missing flip property
+  - ED 32: Missing flip property
+  - ED 33: Missing flip property
+  - ED 34: Missing flip property
+  - ED 35: Missing flip property
+  - ED 36: Missing flip property
+  - ED 37: Missing flip property
+  - ED 38: Missing flip property
+  - ED 39: Missing flip property
+  - ED 40: Missing flip property
+  - ED01 Southeast Panhandle: Missing flip property
+  - ED02 Central/North Panhandle: Missing flip property
+  - ED03 Northeast Panhandle: Missing flip property
+  - ED04 Greater Juneau: Missing flip property
+  - ED05 Kodiak/Pr.William Sound: Missing flip property
+  - ED06 South Kenai Peninsula: Missing flip property
+  - ED07 Central Kenai Peninsula: Missing flip property
+  - ED08 North/East Kenai Penin.: Missing flip property
+  - ED09 Far South Anch Borough: Missing flip property
+  - ED10 S-Central Anch Suburbs: Missing flip property
+  - ED11 SE Anchorage Suburbs: Missing flip property
+  - ED12 S-Central Anch Suburbs: Missing flip property
+  - ED13 Central Anch Suburbs: Missing flip property
+  - ED14 Midtown Anchorage: Missing flip property
+  - ED15 SW Anchorage Suburbs: Missing flip property
+  - ED16 West Anchorage Suburbs: Missing flip property
+  - ED17 Downtown Anchorage: Missing flip property
+  - ED18 NE Anchorage City: Missing flip property
+  - ED19 North Anchorage City: Missing flip property
+  - ED20 E-Central Anch City: Missing flip property
+  - ED21 East Anchorage CIty: Missing flip property
+  - ED22 NE Anchorage City: Missing flip property
+  - ED23 North Anchorage Borough: Missing flip property
+  - ED24 FarNorth Anchorage Boro: Missing flip property
+  - ED25 Mat-Su - Palmer Area: Missing flip property
+  - ED26 Mat-Su Valley South: Missing flip property
+  - ED27 Mat-Su - Wasilla: Missing flip property
+  - ED28 Mat-Su - East Wasilla: Missing flip property
+  - ED29 Mat-Su Valley East: Missing flip property
+  - ED30 Mat-Su - Parks Highway: Missing flip property
+  - ED31 Downtown Fairbanks: Missing flip property
+  - ED32 East Fairbanks: Missing flip property
+  - ED33 North Pole Area: Missing flip property
+  - ED34 E. Fairbanks Outskirts: Missing flip property
+  - ED35 W. Fairbanks Outskirts: Missing flip property
+  - ED36 Interior Alaska: Missing flip property
+  - ED37 Bristol Bay/Aleutians: Missing flip property
+  - ED38 Bering Coast: Missing flip property
+  - ED39 Bering Straits: Missing flip property
+  - ED40 Arctic: Missing flip property
+
+AR:
+  - Arkansas: Flip array has 2 elements, expected 3
+  - Saint Francis: Flip array has 2 elements, expected 3
+  - Arkansas County: Missing flip property
+  - St. Francis: Missing flip property
+
+DC: Bad 2016 data, Bad 2012 data
+  - District of Columbia: Missing flip property
+  - Dist. of Columbia: Missing flip property
+  - Ward 1: Flip array has 1 elements, expected 3
+  - Ward 2: Flip array has 1 elements, expected 3
+  - Ward 3: Flip array has 1 elements, expected 3
+  - Ward 4: Flip array has 1 elements, expected 3
+  - Ward 5: Flip array has 1 elements, expected 3
+  - Ward 6: Flip array has 1 elements, expected 3
+  - Ward 7: Flip array has 1 elements, expected 3
+  - Ward 8: Flip array has 1 elements, expected 3
+
+IL:
+  - JoDaviess: Flip array has 2 elements, expected 3
+  - Jo Daviess: Missing flip property
+
+LA:
+  - Jeff Davis: Flip array has 2 elements, expected 3
+  - Jefferson Davis: Missing flip property
+
+MD:
+  - Baltimore: Flip array has 2 elements, expected 3
+  - Baltimore County: Missing flip property
+
+ME: Fix maine
+  - Bancroft: Missing flip property
+  - Old Orchrd Bch: Flip array has 2 elements, expected 3
+  - Saint Agatha: Flip array has 2 elements, expected 3
+  - Piscataquis Cty Townshps: Flip array has 2 elements, expected 3
+  - Old Orchard Beach: Missing flip property
+  - St. Agatha: Missing flip property
+  - Piscataquis Cty Townships: Missing flip property
+
+MO:
+  - Jackson: Flip array has 2 elements, expected 3
+  - Jackson Suburbs: Missing flip property
+  - Kansas City: Missing flip property
+
+MS:
+  - Jeff Davis: Flip array has 2 elements, expected 3
+  - Jefferson Davis: Missing flip property
+
+NH:
+  - Harts Location: Flip array has 2 elements, expected 3
+  - Hart's Location: Missing flip property
+
+NY:
+  - Saint Lawrence: Flip array has 2 elements, expected 3
+  - St. Lawrence: Missing flip property
+
+OK:
+  - Oklahoma: Flip array has 2 elements, expected 3
+  - Oklahoma County: Missing flip property
+
+SD:
+  - Shannon: Missing flip property
+  - Oglala Lakota: Flip array has 2 elements, expected 3
+
+TX:
+  - De Witt: Flip array has 2 elements, expected 3
+  - La Salle: Flip array has 2 elements, expected 3
+  - La Vaca: Flip array has 2 elements, expected 3
+  - DeWitt: Missing flip property
+  - LaSalle: Missing flip property
+  - Lavaca: Missing flip property
+
+UT:
+  - Utah: Flip array has 2 elements, expected 3
+  - Utah County: Missing flip property
+
+VA:
+  - Fairfax: Flip array has 2 elements, expected 3
+  - Franklin: Flip array has 2 elements, expected 3
+  - Richmond: Flip array has 2 elements, expected 3
+  - Roanoke: Flip array has 2 elements, expected 3
+  - Bedford City: Missing flip property
+  - Fairfax County: Missing flip property
+  - Franklin County: Missing flip property
+  - Richmond County: Missing flip property
+  - Roanoke County: Missing flip property
