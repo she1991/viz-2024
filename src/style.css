@@ -20,15 +20,47 @@
     --warning: #F1C40F;      /* Yellow */
     --danger: #E74C3C;       /* Red */
     --info: #3498DB;         /* Blue */
-}
 
-h1 {
-    font-family: "Roboto", sans-serif;
-    color: var(--primary);
+    /*Design colors*/
+    --surface-primary: #F1F1F1;
+    --surface-secondary: #D9D9D9;
+    --surface-tertiary: #484848;
+    --surface-selected: #322929;
+
+    --text-primary: #322929;
+    --text-secondary: #484848;
+    --text-contrast: #FFFFFF;
+
+    --border-secondary: #CACACA;
+
+    --republican-bold: #FF0000;
+    --democratic-bold: #0062FF;
+
+    --space-unit: 1em;
+    --space-xxs:  calc(0.25 * var(--space-unit));
+    --space-xs:   calc(0.5 * var(--space-unit));
+    --space-sm:   calc(0.75 * var(--space-unit));
+    --space-md:   calc(1.25 * var(--space-unit));
+    --space-lg:   calc(2 * var(--space-unit));
+    --space-xl:   calc(3.25 * var(--space-unit));
+    --space-xxl:  calc(5.25 * var(--space-unit));
+
+    --border-radius-lg: 1em;
+    --border-radius-md: 0.75em;
+    --border-radius-sm: 0.5em;
+    --border-radius-xs: 0.25em;
+
+
+
+    color: var(--text-primary);
+    font-family: 'Open Sans Variable', sans-serif;
 }
 
 svg {
     display: block;
-    margin: 20px 0;
-    background-color: var(--neutral-200);  /* Using our palette instead of #f0f0f0 */
-} 
+}
+
+.select-button:hover {
+    background-color: var(--surface-selected)!important;
+    color: var(--text-contrast)!important;
+}

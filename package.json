@@ -6,13 +6,20 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "serve -s build"
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.26.3",
+    "@vitejs/plugin-react": "^4.2.0",
     "vite": "^5.0.0"
   },
   "dependencies": {
-    "@fontsource/roboto": "^5.1.0",
-    "d3": "^7.9.0"
+    "@fontsource-variable/open-sans": "^5.1.0",
+    "@fontsource-variable/playfair-display": "^5.1.0",
+    "d3": "^7.9.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "serve": "^14.2.4"
   }
 }

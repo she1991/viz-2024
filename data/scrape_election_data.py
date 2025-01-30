@@ -5,8 +5,8 @@ import random
 import json
 years = [ 2012, 2016, 2020, 2024 ]
 #"AL", "AK", "AR", "AZ", "CA", "CO", "CT", "DE", "DC", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA",
-states = [ "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VA", "WA", "WV", "WI", "WY"]
-#states = ["AL", "DE"]
+#states = [ "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VA", "WA", "WV", "WI", "WY"]
+states = ["VT"]
 candiates = jsify([])
 
 #Build URL to pull county data for state in states:
@@ -103,6 +103,6 @@ def getDataForState(state):
 #iterate
 for state in states:
     stateData = getDataForState(state)
-    with open('./data/state-data/op.json', 'a', encoding='utf-8') as f:
+    with open('./data/state-data/op_vt.json', 'a', encoding='utf-8') as f:
         json.dump(stateData, f, ensure_ascii=False, indent=4)
         f.write(',\n')

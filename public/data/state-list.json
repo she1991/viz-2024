@@ -1,0 +1,272 @@
+[
+    {
+        "statestateName": "Counties Which Flipped",
+        "code": "Counties Which Flipped",
+        "order": -4
+    },
+    {
+        "stateName": "Flipped Once",
+        "code": "Flipped Once",
+        "order": -3
+    },
+    {
+        "stateName": "Flipped Twice",
+        "code": "Flipped Twice",
+        "order": -2
+    },
+    {
+        "stateName": "Flipped Thrice",
+        "code": "Flipped Thrice",
+        "order": -1
+    },
+    {
+        "stateName": "Alabama",
+        "code": "AL",
+        "order": 1
+    },
+    {
+        "stateName": "Alaska",
+        "code": "AK",
+        "order": 2
+    },
+    {
+        "stateName": "Arizona",
+        "code": "AZ",
+        "order": 3
+    },
+    {
+        "stateName": "Arkansas",
+        "code": "AR",
+        "order": 4
+    },
+    {
+        "stateName": "California",
+        "code": "CA",
+        "order": 5
+    },
+    {
+        "stateName": "Colorado",
+        "code": "CO",
+        "order": 6
+    },
+    {
+        "stateName": "Connecticut",
+        "code": "CT",
+        "order": 7
+    },
+    {
+        "stateName": "Delaware",
+        "code": "DE",
+        "order": 8
+    },
+    {
+        "stateName": "Florida",
+        "code": "FL",
+        "order": 9
+    },
+    {
+        "stateName": "Georgia",
+        "code": "GA",
+        "order": 10
+    },
+    {
+        "stateName": "Hawaii",
+        "code": "HI",
+        "order": 11
+    },
+    {
+        "stateName": "Idaho",
+        "code": "ID",
+        "order": 12
+    },
+    {
+        "stateName": "Illinois",
+        "code": "IL",
+        "order": 13
+    },
+    {
+        "stateName": "Indiana",
+        "code": "IN",
+        "order": 14
+    },
+    {
+        "stateName": "Iowa",
+        "code": "IA",
+        "order": 15
+    },
+    {
+        "stateName": "Kansas",
+        "code": "KS",
+        "order": 16
+    },
+    {
+        "stateName": "Kentucky",
+        "code": "KY",
+        "order": 17
+    },
+    {
+        "stateName": "Louisiana",
+        "code": "LA",
+        "order": 18
+    },
+    {
+        "stateName": "Maine",
+        "code": "ME",
+        "order": 19
+    },
+    {
+        "stateName": "Maryland",
+        "code": "MD",
+        "order": 20
+    },
+    {
+        "stateName": "Massachusetts",
+        "code": "MA",
+        "order": 21
+    },
+    {
+        "stateName": "Michigan",
+        "code": "MI",
+        "order": 22
+    },
+    {
+        "stateName": "Minnesota",
+        "code": "MN",
+        "order": 23
+    },
+    {
+        "stateName": "Mississippi",
+        "code": "MS",
+        "order": 24
+    },
+    {
+        "stateName": "Missouri",
+        "code": "MO",
+        "order": 25
+    },
+    {
+        "stateName": "Montana",
+        "code": "MT",
+        "order": 26
+    },
+    {
+        "stateName": "Nebraska",
+        "code": "NE",
+        "order": 27
+    },
+    {
+        "stateName": "Nevada",
+        "code": "NV",
+        "order": 28
+    },
+    {
+        "stateName": "New Hampshire",
+        "code": "NH",
+        "order": 29
+    },
+    {
+        "stateName": "New Jersey",
+        "code": "NJ",
+        "order": 30
+    },
+    {
+        "stateName": "New Mexico",
+        "code": "NM",
+        "order": 31
+    },
+    {
+        "stateName": "New York",
+        "code": "NY",
+        "order": 32
+    },
+    {
+        "stateName": "North Carolina",
+        "code": "NC",
+        "order": 33
+    },
+    {
+        "stateName": "North Dakota",
+        "code": "ND",
+        "order": 34
+    },
+    {
+        "stateName": "Ohio",
+        "code": "OH",
+        "order": 35
+    },
+    {
+        "stateName": "Oklahoma",
+        "code": "OK",
+        "order": 36
+    },
+    {
+        "stateName": "Oregon",
+        "code": "OR",
+        "order": 37
+    },
+    {
+        "stateName": "Pennsylvania",
+        "code": "PA",
+        "order": 38
+    },
+    {
+        "stateName": "Rhode Island",
+        "code": "RI",
+        "order": 39
+    },
+    {
+        "stateName": "South Carolina",
+        "code": "SC",
+        "order": 40
+    },
+    {
+        "stateName": "South Dakota",
+        "code": "SD",
+        "order": 41
+    },
+    {
+        "stateName": "Tennessee",
+        "code": "TN",
+        "order": 42
+    },
+    {
+        "stateName": "Texas",
+        "code": "TX",
+        "order": 43
+    },
+    {
+        "stateName": "Utah",
+        "code": "UT",
+        "order": 44
+    },
+    {
+        "stateName": "Vermont",
+        "code": "VT",
+        "order": 45
+    },
+    {
+        "stateName": "Virginia",
+        "code": "VA",
+        "order": 46
+    },
+    {
+        "stateName": "Washington",
+        "code": "WA",
+        "order": 47
+    },
+    {
+        "stateName": "West Virginia",
+        "code": "WV",
+        "order": 48
+    },
+    {
+        "stateName": "Wisconsin",
+        "code": "WI",
+        "order": 49
+    },
+    {
+        "stateName": "Wyoming",
+        "code": "WY",
+        "order": 779
+    }
+] 
