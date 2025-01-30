@@ -48,15 +48,47 @@ const getStateObject = (visualizationData, state) => {
 const App = (props) => {
     const [visualizationData, setVisualizationData] = useState(data);
     const [selectedState, setSelectedState] = useState('Counties Which Flipped');
+    const [selectedFilter, setSelectedFilter] = useState('2');
     const [renderData, setRenderData] = useState(getStateObject(visualizationData, selectedState));
     React.useEffect(() => {
-        setRenderData(getStateObject(visualizationData, selectedState));
+        let stateData = getStateObject(visualizationData, selectedState);
+        setSelectedFilter("allCounties");
+        setRenderData(stateData);
     }, [selectedState]);
+    React.useEffect(() => {
+        let stateData = getStateObject(visualizationData, selectedState);
+        console.log("filters changed");
+        if(!isNaN(selectedFilter) && Number.isInteger(parseInt(selectedFilter))) {
+            let stateDataFiltered = Object.assign({}, stateData);
+            let countiesFiltered = stateDataFiltered.counties.filter(county => 
+                county.flip[parseInt(selectedFilter)] === true
+            );
+            console.log(countiesFiltered);
+            stateDataFiltered.counties = countiesFiltered;
+            stateData = stateDataFiltered;
+        } else if(selectedFilter === "consistentlyRepublican" || selectedFilter === "consistentlyDemocratic") {
+            let stateDataFiltered = Object.assign({}, stateData);
+            let countiesFiltered = stateDataFiltered.counties.filter(county => 
+                county[selectedFilter] === true
+            );
+            stateDataFiltered.counties = countiesFiltered;
+            stateData = stateDataFiltered;
+        } else if(selectedFilter === "flipped") {
+            let stateDataFiltered = Object.assign({}, stateData);
+            let countiesFiltered = stateDataFiltered.counties.filter(county => 
+                county.flip.some(value => value === true)
+            );
+            stateDataFiltered.counties = countiesFiltered;
+            stateData = stateDataFiltered;
+        }
+        console.log(stateData.length);
+        setRenderData(stateData);
+    }, [selectedFilter]);
     return (
         <div style={{display: "flex", flexDirection: "row", padding: "var(--space-sm)"}}>
             <MainSidePanel visualizationData={visualizationData} selectedState={selectedState} setSelectedState={setSelectedState}/>
             <VisualizationPanel renderData={renderData}/>
-            <FilterSidePanel />
+            <FilterSidePanel selectedState={selectedState} visualizationData={visualizationData} selectedFilter={selectedFilter} setSelectedFilter={setSelectedFilter}/>
         </div>
     );
 }

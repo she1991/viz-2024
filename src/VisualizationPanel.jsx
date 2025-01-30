@@ -37,9 +37,9 @@ const VisualizationPanel = (props) => {
         svg.node().appendChild((()=>{
             return renderedHorizontalBars.node();
         })());
-
-        svg.attr('width', width/1.5)
-           .attr('height', height/1.5)
+""
+        svg.attr('height', "auto")
+            .attr("width", "auto")
            .attr('viewBox', `0 0 ${width} ${height}`);
     }, [props.renderData]);
 
@@ -47,7 +47,8 @@ const VisualizationPanel = (props) => {
         <div style={{flex: 1}}>
             <div id="viz" style={{
                 display: "flex",
-                justifyContent: "center"
+                justifyContent: "center",
+                maxHeight: "calc(98vh - var(--space-xxl))"
             }}></div>
         </div>
     );
