@@ -1,8 +1,8 @@
 import React from 'react';
 import * as d3 from 'd3';
-import subpart from './subpart.js';
 import renderState from './renderstate.js';
 import renderHorizontalBarsCounty from './renderhorizontalbarscounty.js';
+import renderStateName from './renderstatename.js';
 
 const VisualizationPanel = (props) => {
     React.useEffect(() => {
@@ -17,8 +17,6 @@ const VisualizationPanel = (props) => {
             .attr('width', width)
             .attr('height', height)
             .style('background-color', 'none');
-
-        svg.node().appendChild(subpart.node());
         
         svg.node().appendChild(
             (() => {
@@ -37,7 +35,12 @@ const VisualizationPanel = (props) => {
         svg.node().appendChild((()=>{
             return renderedHorizontalBars.node();
         })());
-""
+
+        let renderedStateName = renderStateName(props.renderData, width, height);;
+        svg.node().appendChild((()=>{
+            return renderedStateName.node();
+        })());
+
         svg.attr('height', "auto")
             .attr("width", "auto")
            .attr('viewBox', `0 0 ${width} ${height}`);

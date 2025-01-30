@@ -47,7 +47,7 @@ const getStateObject = (visualizationData, state) => {
 
 const App = (props) => {
     const [visualizationData, setVisualizationData] = useState(data);
-    const [selectedState, setSelectedState] = useState('Counties Which Flipped');
+    const [selectedState, setSelectedState] = useState('AL');
     const [selectedFilter, setSelectedFilter] = useState('2');
     const [renderData, setRenderData] = useState(getStateObject(visualizationData, selectedState));
     React.useEffect(() => {
