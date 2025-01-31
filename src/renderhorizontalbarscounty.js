@@ -116,6 +116,15 @@ function renderHorizontalBarsCounty(height, x) {
         .attr("font-family", "'Open Sans Variable', sans-serif")
         .attr("font-weight", 400)
         .attr("text-anchor", "end");
+    countyHorizontalBarsDataGroup.append("text")
+        .attr("class", "bar-state-name")
+        .attr("x", x+200)
+        .attr("y", 120)
+        .text("XYZ")
+        .attr("font-size", "1.1em")
+        .attr("font-family", "'Open Sans Variable', sans-serif")
+        .attr("font-weight", 400)
+        .attr("text-anchor", "end");
     countyHorizontalBarsDataGroup.selectAll("text .bar-county-margin")
         .data([2016, 2020, 2024])
             .join("text")
@@ -130,7 +139,7 @@ function renderHorizontalBarsCounty(height, x) {
             .text("R -3.5%")
             .attr("font-size", "1.5em")
             .attr("font-family", "'Open Sans Variable', sans-serif")
-            .attr("font-weight", 600)
+            .attr("font-weight", 500)
             .attr("text-anchor", "middle");
     countyHorizontalBarsDataGroup.append("text")
         .attr("class", "bar-county-name")

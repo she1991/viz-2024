@@ -21,8 +21,9 @@ function updateHorizontalBarsCounty(countyName, stateName, year, totalVotes, dem
         .attr("width", repWidth);
     d3.select(".bar-county-name")
         .text(countyName);
-    d3.select(".bar-state-name")
+    let d =d3.select(".bar-state-name")
         .text(stateName);   
+    console.log(d);
 }
 
 export default updateHorizontalBarsCounty;

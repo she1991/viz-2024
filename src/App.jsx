@@ -3,6 +3,7 @@ import data from '../public/data/transformed_states.json';
 import MainSidePanel from "./MainSidePanel.jsx";
 import VisualizationPanel from "./VisualizationPanel.jsx";
 import FilterSidePanel from "./FilterSidePanel.jsx";
+import FooterSection from './FooterSection.jsx';
 
 
 /*function App() {
@@ -47,7 +48,7 @@ const getStateObject = (visualizationData, state) => {
 
 const App = (props) => {
     const [visualizationData, setVisualizationData] = useState(data);
-    const [selectedState, setSelectedState] = useState('AL');
+    const [selectedState, setSelectedState] = useState('CA');
     const [selectedFilter, setSelectedFilter] = useState('2');
     const [renderData, setRenderData] = useState(getStateObject(visualizationData, selectedState));
     React.useEffect(() => {
@@ -88,7 +89,15 @@ const App = (props) => {
         <div style={{display: "flex", flexDirection: "row", padding: "var(--space-sm)"}}>
             <MainSidePanel visualizationData={visualizationData} selectedState={selectedState} setSelectedState={setSelectedState}/>
             <VisualizationPanel renderData={renderData}/>
-            <FilterSidePanel selectedState={selectedState} visualizationData={visualizationData} selectedFilter={selectedFilter} setSelectedFilter={setSelectedFilter}/>
+            <div style={{
+                maxWidth: "18em",
+                minWidth: "14em",
+                display: "flex",
+                flexDirection: "column",
+            }}>
+                <FilterSidePanel selectedState={selectedState} visualizationData={visualizationData} selectedFilter={selectedFilter} setSelectedFilter={setSelectedFilter}/>
+                <FooterSection />
+            </div>
         </div>
     );
 }

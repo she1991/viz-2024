@@ -5,18 +5,17 @@ const FilterSidePanel = (props) => {
     const state = props.visualizationData.find(stateObj => stateObj.state === props.selectedState);
     return(
         <div style={{
-            height: "100%",
             backgroundColor: "var(--surface-primary)",
             padding: "var(--space-lg)",
+            paddingTop: "var(--space-md)",
             borderRadius: "var(--border-radius-lg)",
-            maxWidth: "16em",
-            minWidth: "14em",
             display: "flex",
             flexDirection: "column",
         }}>
             <div style={{
                 overflowY: "auto",
                 display: "flex",
+                paddingTop: "var(--space-xxs)",
                 flexDirection: "column",
                 gap: "var(--space-xxs)",
                 flex: 1

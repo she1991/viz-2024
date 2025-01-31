@@ -46,7 +46,7 @@ const VisualizationPanel = (props) => {
     }, [props.renderData]);
 
     return (
-        <div style={{flex: 1}}>
+        <div style={{flex: 1, minWidth: "800px"}}>
             <div id="viz" style={{
                 display: "flex",
                 justifyContent: "center",
