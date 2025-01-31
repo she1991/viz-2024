@@ -1,4 +1,6 @@
-AK:
+Found 141 counties with flip property issues:
+
+AK: Needs Manual Work
   - Alaska: Flip array has 1 elements, expected 3
   - ED 1: Missing flip property
   - ED 2: Missing flip property
@@ -87,7 +89,7 @@ AR:
   - Arkansas County: Missing flip property
   - St. Francis: Missing flip property
 
-DC: Bad 2016 data, Bad 2012 data
+DC: Needs Manual Work
   - District of Columbia: Missing flip property
   - Dist. of Columbia: Missing flip property
   - Ward 1: Flip array has 1 elements, expected 3
@@ -111,7 +113,7 @@ MD:
   - Baltimore: Flip array has 2 elements, expected 3
   - Baltimore County: Missing flip property
 
-ME: Fix maine
+ME:
   - Bancroft: Missing flip property
   - Old Orchrd Bch: Flip array has 2 elements, expected 3
   - Saint Agatha: Flip array has 2 elements, expected 3
@@ -167,3 +169,8 @@ VA:
   - Franklin County: Missing flip property
   - Richmond County: Missing flip property
   - Roanoke County: Missing flip property
+
+VT:
+  - Alburg: Missing flip property
+  - Alburgh: Flip array has 2 elements, expected 3
+  - Essex Junction: Missing flip property

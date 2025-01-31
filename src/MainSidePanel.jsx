@@ -27,9 +27,9 @@ const MainSidePanel = (props) => {
                 fontSize: "0.75em",
                 fontWeight: 400,
             }}>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem  accusantium doloremque laudantium
+                The republican victory in the 2024 presidential elections was marked by a <i>red-shift</i> across USA. This is an attempt to visualize it.
                 <br /><br />
-                totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
+                The tulip shaped visualization blooms in colors, shrinks and grows left or right. Each strand within it - representing a county and its voting patterns. Click on a state from the list below to investigate further.  
             </p>
             <div style={{
                 borderTop: "1px solid var(--border-secondary)",
@@ -59,7 +59,7 @@ const MainSidePanel = (props) => {
                         <span style={{fontWeight: 400}}>Flipped Counties</span>
                     </div>
                     {props.visualizationData.map((state, i)=>{
-                        if(i > 49 && state.state!="Counties Which Flipped" && state.state!="Flipped Once")
+                        if(i > 50 && state.state!="Counties Which Flipped" && state.state!="Flipped Once")
                             return <SelectButton code={state.state} flipped={state.flipped} name={state.stateName} selected={props.selectedState == state.state} selectedState={props.selectedState} setSelectedState={props.setSelectedState}/>
                     })}
                     <div style={{
@@ -74,7 +74,7 @@ const MainSidePanel = (props) => {
                         <span style={{fontWeight: 400}}>Flipped Counties</span>
                     </div>
                     {props.visualizationData.map((state, i)=>{
-                        if(i < 50)
+                        if(i < 51)
                             return <SelectButton code={state.state} flipped={state.flipped} name={state.stateName} selected={props.selectedState == state.state} selectedState={props.selectedState} setSelectedState={props.setSelectedState}/>
                     })}
                 </div>

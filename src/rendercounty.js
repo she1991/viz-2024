@@ -93,7 +93,12 @@ function handleCountyMouseover(event, d, context) {
         marginText
             .text(mov.winParty+" "+(mov.mov>0?"+":"")+(Math.round(mov.mov * 100) / 100)+"%")
             .attr("fill", ()=>{
-                return mov.winParty=="D"?"var(--democratic-bold)":"var(--republican-bold)"
+                let color = "var(--surface-selected)";
+                if(mov.winParty=="D")
+                    color = "var(--democratic-bold)";
+                if(mov.winParty=="R")
+                    color = "var(--republican-bold)";
+                return color;
             });
     });
 }
