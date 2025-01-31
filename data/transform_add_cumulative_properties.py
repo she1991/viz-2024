@@ -149,7 +149,7 @@ def transform_json(data):
     return final_data
 
 # Read the input JSON file
-input_path = "../public/data/op-json_2.json"
+input_path = "../data/state-data/op.json"
 output_path = "../public/data/transformed_states.json"
 
 try:
