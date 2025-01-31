@@ -1,6 +1,44 @@
 import * as d3 from 'd3';
 import updateHorizontalBarsCounty from './updatehorizontalbarscounty';
 
+function calculateMOVArray (countyData) {
+    /*
+    [
+        {
+            year1: 2012,
+            year2: 2016,
+            MOV: 8.3,
+            winParty: "R"
+        },
+        {
+            year1: 2012,
+            year2: 2016,
+            MOV: 8.3,
+            winParty: "R"
+        },
+    ]
+    */
+    let movArray = [];
+    for(let i=0; i<countyData.length-1; i++) {
+        let winnerY2 = countyData[i+1].winParty;
+        let winnerY1Pct = countyData[i].candidates.filter((candidate)=>{
+            return candidate.party === winnerY2;
+        })[0].pct;
+        let winnerY2Pct = countyData[i+1].candidates.filter((candidate)=>{
+            return candidate.party === winnerY2;
+        })[0].pct;
+        let movValue = parseFloat(winnerY2Pct) - parseFloat(winnerY1Pct);
+        let movObj = {
+            year1: countyData[i].year,
+            year2: countyData[i+1].year,
+            mov: movValue,
+            winParty: winnerY2
+        };
+        movArray.push(movObj);
+    }
+    return movArray;
+}
+
 function getAxesValue(votes, maxTotalVote, width, height, countyDataIndex) {
     const axes = d3.scaleLinear()
         .domain([0, maxTotalVote])
@@ -47,6 +85,16 @@ function handleCountyMouseover(event, d, context) {
                 return candidate.party == "R"
             }).vote
         )
+    });
+    let movValues = calculateMOVArray(data.countyData);
+    movValues.forEach((mov)=>{
+        let marginText = d3.selectAll(".bar-county-margin")
+            .filter(function(d) { return d3.select(this).attr("year") == mov.year2; });
+        marginText
+            .text(mov.winParty+" "+(mov.mov>0?"+":"")+(Math.round(mov.mov * 100) / 100)+"%")
+            .attr("fill", ()=>{
+                return mov.winParty=="D"?"var(--democratic-bold)":"var(--republican-bold)"
+            });
     });
 }
 

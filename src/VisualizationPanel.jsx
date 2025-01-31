@@ -31,7 +31,6 @@ const VisualizationPanel = (props) => {
             height,
             800
         );
-        console.log(renderedHorizontalBars.node());
         svg.node().appendChild((()=>{
             return renderedHorizontalBars.node();
         })());

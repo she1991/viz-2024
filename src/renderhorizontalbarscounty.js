@@ -54,6 +54,24 @@ function renderHorizontalBarsCounty(height, x) {
             })
             .attr("stroke", "var(--surface-secondary)")
             .attr("stroke-width", 2);
+    countyHorizontalBarsGroup.selectAll("text")
+        .data(years)
+            .join("text")
+            .attr("class", "bar-year-heading")
+            .attr("year", (d, i) => {
+                return d;
+            })
+            .attr("x", x+200)
+            .attr("y", (d, i) => {
+                return height - (height/4)*i - 120;
+            })
+            .text((d, i) => {
+                return d;
+            })
+            .attr("font-size", "1.5em")
+            .attr("font-family", "'Open Sans Variable', sans-serif")
+            .attr("font-weight", 400)
+            .attr("text-anchor", "end");
 
     let countyHorizontalBarsDataGroup = countyHorizontalBarsGroup.append("svg:g")
             .attr("class", "county-horizontal-bars-data-group")
@@ -92,28 +110,36 @@ function renderHorizontalBarsCounty(height, x) {
     countyHorizontalBarsDataGroup.append("text")
         .attr("class", "bar-county-heading")
         .attr("x", x+200)
-        .attr("y", 24)
+        .attr("y", 65)
         .text("The County of")
-        .attr("font-size", "1sem")
+        .attr("font-size", "1.1em")
         .attr("font-family", "'Open Sans Variable', sans-serif")
         .attr("font-weight", 400)
         .attr("text-anchor", "end");
+    countyHorizontalBarsDataGroup.selectAll("text .bar-county-margin")
+        .data([2016, 2020, 2024])
+            .join("text")
+            .attr("class", "bar-county-margin")
+            .attr("year", (d, i) => {
+                return d;
+            })
+            .attr("x", x+100)
+            .attr("y", (d, i) => {
+                return height - (1200/4)*i - 300;
+            })
+            .text("R -3.5%")
+            .attr("font-size", "1.5em")
+            .attr("font-family", "'Open Sans Variable', sans-serif")
+            .attr("font-weight", 600)
+            .attr("text-anchor", "middle");
     countyHorizontalBarsDataGroup.append("text")
         .attr("class", "bar-county-name")
         .attr("x", x+200)
-        .attr("y", 50)
+        .attr("y", 96)
         .text("County"+",")
-        .attr("font-size", "1.5em")
+        .attr("font-size", "1.75em")
         .attr("font-family", "'Open Sans Variable', sans-serif")
         .attr("font-weight", 600)
-        .attr("text-anchor", "end");
-    countyHorizontalBarsDataGroup.append("text")
-        .attr("class", "bar-state-name")
-        .attr("x", x+200)
-        .attr("y", 74)
-        .text("XYZ")
-        .attr("font-size", "1.1em")
-        .attr("font-family", "'Open Sans Variable', sans-serif")
         .attr("text-anchor", "end");
     return countyHorizontalBarsGroup;
 }
