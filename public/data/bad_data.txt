@@ -83,7 +83,7 @@ AK: Needs Manual Work
   - ED39 Bering Straits: Missing flip property
   - ED40 Arctic: Missing flip property
 
-AR:
+AR: DONE
   - Arkansas: Flip array has 2 elements, expected 3
   - Saint Francis: Flip array has 2 elements, expected 3
   - Arkansas County: Missing flip property
@@ -101,19 +101,19 @@ DC: Needs Manual Work
   - Ward 7: Flip array has 1 elements, expected 3
   - Ward 8: Flip array has 1 elements, expected 3
 
-IL:
+IL: DONE
   - JoDaviess: Flip array has 2 elements, expected 3
   - Jo Daviess: Missing flip property
 
-LA:
+LA: DONE
   - Jeff Davis: Flip array has 2 elements, expected 3
   - Jefferson Davis: Missing flip property
 
-MD:
+MD: DONE
   - Baltimore: Flip array has 2 elements, expected 3
   - Baltimore County: Missing flip property
 
-ME:
+ME: Deleted Bancroft, DONE
   - Bancroft: Missing flip property
   - Old Orchrd Bch: Flip array has 2 elements, expected 3
   - Saint Agatha: Flip array has 2 elements, expected 3
@@ -122,32 +122,32 @@ ME:
   - St. Agatha: Missing flip property
   - Piscataquis Cty Townships: Missing flip property
 
-MO:
+MO: Deleted Kansas City, DONE
   - Jackson: Flip array has 2 elements, expected 3
   - Jackson Suburbs: Missing flip property
   - Kansas City: Missing flip property
 
-MS:
+MS: DONE
   - Jeff Davis: Flip array has 2 elements, expected 3
   - Jefferson Davis: Missing flip property
 
-NH:
+NH: DONE
   - Harts Location: Flip array has 2 elements, expected 3
   - Hart's Location: Missing flip property
 
-NY:
+NY: DONE
   - Saint Lawrence: Flip array has 2 elements, expected 3
   - St. Lawrence: Missing flip property
 
-OK:
+OK: DONE
   - Oklahoma: Flip array has 2 elements, expected 3
   - Oklahoma County: Missing flip property
 
-SD:
+SD: Merged Shannon and Oglala Lakota, DONE
   - Shannon: Missing flip property
   - Oglala Lakota: Flip array has 2 elements, expected 3
 
-TX:
+TX: DONE
   - De Witt: Flip array has 2 elements, expected 3
   - La Salle: Flip array has 2 elements, expected 3
   - La Vaca: Flip array has 2 elements, expected 3
@@ -155,11 +155,11 @@ TX:
   - LaSalle: Missing flip property
   - Lavaca: Missing flip property
 
-UT:
+UT: DONE
   - Utah: Flip array has 2 elements, expected 3
   - Utah County: Missing flip property
 
-VA:
+VA: DONE
   - Fairfax: Flip array has 2 elements, expected 3
   - Franklin: Flip array has 2 elements, expected 3
   - Richmond: Flip array has 2 elements, expected 3
