@@ -1,0 +1,7902 @@
+{
+  "statistics": {
+    "mean": 2.556770532289422,
+    "std": 5.6037373200316996,
+    "outlier_threshold": 2
+  },
+  "outliers": [
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 76.6,
+      "winParty": "D",
+      "countyName": "Menominee",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 70.7,
+      "winParty": "R",
+      "countyName": "Hersey",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 70.7,
+      "winParty": "R",
+      "countyName": "Hersey",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 70.7,
+      "winParty": "R",
+      "countyName": "Hersey",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -70.1,
+      "winParty": "R",
+      "countyName": "Piscataquis Cty Townshps",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 69.6,
+      "winParty": "R",
+      "countyName": "Upton",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 69.6,
+      "winParty": "R",
+      "countyName": "Upton",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 69.6,
+      "winParty": "R",
+      "countyName": "Upton",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 62.99999999999999,
+      "winParty": "LB",
+      "countyName": "Hersey",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 62.99999999999999,
+      "winParty": "LB",
+      "countyName": "Hersey",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 62.99999999999999,
+      "winParty": "LB",
+      "countyName": "Hersey",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -62.5,
+      "winParty": "R",
+      "countyName": "Magalloway Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 62.2,
+      "winParty": "R",
+      "countyName": "Hancock Cty Townships",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 62.2,
+      "winParty": "R",
+      "countyName": "Hancock Cty Townships",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 62.2,
+      "winParty": "R",
+      "countyName": "Hancock Cty Townships",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 56.5,
+      "winParty": "R",
+      "countyName": "Northfield",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 56.5,
+      "winParty": "R",
+      "countyName": "Northfield",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 56.5,
+      "winParty": "R",
+      "countyName": "Northfield",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 53.7,
+      "winParty": "R",
+      "countyName": "Northwood",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 53.7,
+      "winParty": "R",
+      "countyName": "Northwood",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 53.7,
+      "winParty": "R",
+      "countyName": "Northwood",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -50.0,
+      "winParty": "R",
+      "countyName": "Glenwood Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -50.0,
+      "winParty": "D",
+      "countyName": "Dixville",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 45.099999999999994,
+      "winParty": "R",
+      "countyName": "Franklin Cty Townships",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 45.099999999999994,
+      "winParty": "R",
+      "countyName": "Franklin Cty Townships",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 45.099999999999994,
+      "winParty": "R",
+      "countyName": "Franklin Cty Townships",
+      "stateName": "",
+      "stateCode": "Flipped Thrice"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 42.9,
+      "winParty": "D",
+      "countyName": "Dixville",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 42.1,
+      "winParty": "R",
+      "countyName": "Webster Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 42.1,
+      "winParty": "R",
+      "countyName": "Webster Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 42.1,
+      "winParty": "R",
+      "countyName": "Webster Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -37.599999999999994,
+      "winParty": "R",
+      "countyName": "Utah",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -37.3,
+      "winParty": "R",
+      "countyName": "Cache",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 36.89999999999999,
+      "winParty": "R",
+      "countyName": "Orient",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 36.89999999999999,
+      "winParty": "R",
+      "countyName": "Orient",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 36.89999999999999,
+      "winParty": "R",
+      "countyName": "Orient",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -36.3,
+      "winParty": "R",
+      "countyName": "Madison",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -35.0,
+      "winParty": "R",
+      "countyName": "Davis",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 34.400000000000006,
+      "winParty": "R",
+      "countyName": "Frenchboro",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 34.400000000000006,
+      "winParty": "R",
+      "countyName": "Frenchboro",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 34.400000000000006,
+      "winParty": "R",
+      "countyName": "Frenchboro",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 33.3,
+      "winParty": "R",
+      "countyName": "Glenwood Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -28.1,
+      "winParty": "R",
+      "countyName": "Morgan",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 27.400000000000006,
+      "winParty": "R",
+      "countyName": "Woodville",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 27.400000000000006,
+      "winParty": "R",
+      "countyName": "Woodville",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 27.400000000000006,
+      "winParty": "R",
+      "countyName": "Woodville",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -26.999999999999993,
+      "winParty": "D",
+      "countyName": "Starr",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -26.999999999999993,
+      "winParty": "D",
+      "countyName": "Starr",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -26.999999999999993,
+      "winParty": "D",
+      "countyName": "Starr",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 26.700000000000003,
+      "winParty": "R",
+      "countyName": "Nashville Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 26.700000000000003,
+      "winParty": "R",
+      "countyName": "Nashville Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 26.700000000000003,
+      "winParty": "R",
+      "countyName": "Nashville Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 26.400000000000002,
+      "winParty": "R",
+      "countyName": "Bellingham",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 26.400000000000002,
+      "winParty": "R",
+      "countyName": "Bellingham",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 26.400000000000002,
+      "winParty": "R",
+      "countyName": "Bellingham",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -26.299999999999997,
+      "winParty": "R",
+      "countyName": "Box Elder",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 26.199999999999996,
+      "winParty": "R",
+      "countyName": "Oxbow Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 26.199999999999996,
+      "winParty": "R",
+      "countyName": "Oxbow Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 26.199999999999996,
+      "winParty": "R",
+      "countyName": "Oxbow Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.799999999999997,
+      "winParty": "R",
+      "countyName": "Victory",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.799999999999997,
+      "winParty": "R",
+      "countyName": "Victory",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.799999999999997,
+      "winParty": "R",
+      "countyName": "Victory",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -25.700000000000003,
+      "winParty": "R",
+      "countyName": "Magalloway Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.700000000000003,
+      "winParty": "R",
+      "countyName": "Lowell",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.700000000000003,
+      "winParty": "R",
+      "countyName": "Lowell",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.700000000000003,
+      "winParty": "R",
+      "countyName": "Lowell",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.699999999999996,
+      "winParty": "R",
+      "countyName": "Pleasant Ridge Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.699999999999996,
+      "winParty": "R",
+      "countyName": "Pleasant Ridge Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.699999999999996,
+      "winParty": "R",
+      "countyName": "Pleasant Ridge Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.4,
+      "winParty": "D",
+      "countyName": "Frye Island",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.4,
+      "winParty": "D",
+      "countyName": "Frye Island",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 25.4,
+      "winParty": "D",
+      "countyName": "Frye Island",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 24.9,
+      "winParty": "D",
+      "countyName": "The Forks Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 24.9,
+      "winParty": "D",
+      "countyName": "The Forks Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 24.9,
+      "winParty": "D",
+      "countyName": "The Forks Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Thrice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -24.700000000000003,
+      "winParty": "R",
+      "countyName": "Wasatch",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 24.5,
+      "winParty": "R",
+      "countyName": "Hammond",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -24.5,
+      "winParty": "R",
+      "countyName": "Weber",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 24.199999999999996,
+      "winParty": "R",
+      "countyName": "Holland",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 24.199999999999996,
+      "winParty": "R",
+      "countyName": "Holland",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 24.199999999999996,
+      "winParty": "R",
+      "countyName": "Holland",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -23.900000000000006,
+      "winParty": "D",
+      "countyName": "Isle Au Haut",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.799999999999997,
+      "winParty": "R",
+      "countyName": "Granby",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.799999999999997,
+      "winParty": "R",
+      "countyName": "Granby",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.799999999999997,
+      "winParty": "R",
+      "countyName": "Granby",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.4,
+      "winParty": "R",
+      "countyName": "Frenchville",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.4,
+      "winParty": "R",
+      "countyName": "Frenchville",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.4,
+      "winParty": "R",
+      "countyName": "Frenchville",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -23.299999999999997,
+      "winParty": "R",
+      "countyName": "Tooele",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.199999999999996,
+      "winParty": "R",
+      "countyName": "Elliott",
+      "stateName": "",
+      "stateCode": "KY"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.199999999999996,
+      "winParty": "R",
+      "countyName": "Elliott",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.199999999999996,
+      "winParty": "R",
+      "countyName": "Elliott",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.099999999999994,
+      "winParty": "R",
+      "countyName": "Searsburg",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.099999999999994,
+      "winParty": "R",
+      "countyName": "Searsburg",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.099999999999994,
+      "winParty": "R",
+      "countyName": "Searsburg",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.0,
+      "winParty": "R",
+      "countyName": "Masardis",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.0,
+      "winParty": "R",
+      "countyName": "Masardis",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 23.0,
+      "winParty": "R",
+      "countyName": "Masardis",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 22.800000000000004,
+      "winParty": "R",
+      "countyName": "Roxbury",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 22.800000000000004,
+      "winParty": "R",
+      "countyName": "Roxbury",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 22.800000000000004,
+      "winParty": "R",
+      "countyName": "Roxbury",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 22.6,
+      "winParty": "R",
+      "countyName": "Mexico",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 22.6,
+      "winParty": "R",
+      "countyName": "Mexico",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 22.6,
+      "winParty": "R",
+      "countyName": "Mexico",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -22.5,
+      "winParty": "R",
+      "countyName": "Sanpete",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -22.200000000000003,
+      "winParty": "D",
+      "countyName": "Maverick",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -22.200000000000003,
+      "winParty": "D",
+      "countyName": "Maverick",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -22.200000000000003,
+      "winParty": "D",
+      "countyName": "Maverick",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 22.099999999999994,
+      "winParty": "R",
+      "countyName": "Madison",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -21.89999999999999,
+      "winParty": "R",
+      "countyName": "Franklin",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -21.60000000000001,
+      "winParty": "D",
+      "countyName": "Van Buren",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -21.60000000000001,
+      "winParty": "D",
+      "countyName": "Van Buren",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -21.60000000000001,
+      "winParty": "D",
+      "countyName": "Van Buren",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 21.5,
+      "winParty": "D",
+      "countyName": "Isle Au Haut",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -21.5,
+      "winParty": "D",
+      "countyName": "Waterville",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 21.099999999999994,
+      "winParty": "R",
+      "countyName": "Canton",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 21.099999999999994,
+      "winParty": "R",
+      "countyName": "Canton",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 21.099999999999994,
+      "winParty": "R",
+      "countyName": "Canton",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 20.700000000000003,
+      "winParty": "R",
+      "countyName": "Wellington",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 20.700000000000003,
+      "winParty": "R",
+      "countyName": "Wellington",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 20.700000000000003,
+      "winParty": "R",
+      "countyName": "Wellington",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -20.60000000000001,
+      "winParty": "D",
+      "countyName": "Roxbury",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -20.599999999999994,
+      "winParty": "D",
+      "countyName": "Grand Isle",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -20.599999999999994,
+      "winParty": "D",
+      "countyName": "Temple",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -20.599999999999994,
+      "winParty": "D",
+      "countyName": "Grand Isle",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -20.599999999999994,
+      "winParty": "D",
+      "countyName": "Temple",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -20.599999999999994,
+      "winParty": "D",
+      "countyName": "Grand Isle",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -20.599999999999994,
+      "winParty": "D",
+      "countyName": "Temple",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 20.5,
+      "winParty": "R",
+      "countyName": "Saint Agatha",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -20.5,
+      "winParty": "D",
+      "countyName": "Erving",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 20.5,
+      "winParty": "R",
+      "countyName": "Saint Agatha",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 20.5,
+      "winParty": "R",
+      "countyName": "Saint Agatha",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 20.499999999999993,
+      "winParty": "R",
+      "countyName": "Clark",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 20.299999999999997,
+      "winParty": "R",
+      "countyName": "Kenedy",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 20.299999999999997,
+      "winParty": "R",
+      "countyName": "Cache",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 20.299999999999997,
+      "winParty": "R",
+      "countyName": "Kenedy",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 20.299999999999997,
+      "winParty": "R",
+      "countyName": "Kenedy",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.9,
+      "winParty": "R",
+      "countyName": "Peru",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.9,
+      "winParty": "R",
+      "countyName": "Peru",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.9,
+      "winParty": "R",
+      "countyName": "Peru",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 19.799999999999997,
+      "winParty": "R",
+      "countyName": "Zapata",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 19.799999999999997,
+      "winParty": "R",
+      "countyName": "Zapata",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 19.799999999999997,
+      "winParty": "R",
+      "countyName": "Zapata",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.700000000000003,
+      "winParty": "D",
+      "countyName": "Savoy",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.700000000000003,
+      "winParty": "D",
+      "countyName": "Harts Location",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.299999999999997,
+      "winParty": "D",
+      "countyName": "Darien",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 19.299999999999997,
+      "winParty": "R",
+      "countyName": "Carthage",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.299999999999997,
+      "winParty": "R",
+      "countyName": "Iron",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.299999999999997,
+      "winParty": "R",
+      "countyName": "Juab",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.299999999999997,
+      "winParty": "D",
+      "countyName": "Darien",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 19.299999999999997,
+      "winParty": "R",
+      "countyName": "Carthage",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.299999999999997,
+      "winParty": "D",
+      "countyName": "Darien",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 19.299999999999997,
+      "winParty": "R",
+      "countyName": "Carthage",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.200000000000003,
+      "winParty": "R",
+      "countyName": "Dennistown Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.200000000000003,
+      "winParty": "R",
+      "countyName": "Oxford Cty Townships",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.200000000000003,
+      "winParty": "R",
+      "countyName": "Monroe",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.200000000000003,
+      "winParty": "R",
+      "countyName": "Oxford Cty Townships",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.200000000000003,
+      "winParty": "R",
+      "countyName": "Oxford Cty Townships",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.199999999999996,
+      "winParty": "R",
+      "countyName": "Dixfield",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.199999999999996,
+      "winParty": "D",
+      "countyName": "Wallagrass",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.199999999999996,
+      "winParty": "R",
+      "countyName": "Dixfield",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.199999999999996,
+      "winParty": "D",
+      "countyName": "Wallagrass",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.199999999999996,
+      "winParty": "R",
+      "countyName": "Dixfield",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.199999999999996,
+      "winParty": "D",
+      "countyName": "Wallagrass",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.1,
+      "winParty": "R",
+      "countyName": "Howard",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.1,
+      "winParty": "D",
+      "countyName": "Berlin",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.1,
+      "winParty": "R",
+      "countyName": "Howard",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.1,
+      "winParty": "D",
+      "countyName": "Berlin",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 19.1,
+      "winParty": "R",
+      "countyName": "Howard",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.1,
+      "winParty": "D",
+      "countyName": "Berlin",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.0,
+      "winParty": "D",
+      "countyName": "Madawaska",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.0,
+      "winParty": "D",
+      "countyName": "Pleasant Point Votng Dst",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 19.0,
+      "winParty": "R",
+      "countyName": "Juab",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.0,
+      "winParty": "D",
+      "countyName": "Madawaska",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -19.0,
+      "winParty": "D",
+      "countyName": "Madawaska",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.900000000000006,
+      "winParty": "R",
+      "countyName": "Reynolds",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 18.9,
+      "winParty": "R",
+      "countyName": "Stockholm",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 18.9,
+      "winParty": "R",
+      "countyName": "Stockholm",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 18.9,
+      "winParty": "R",
+      "countyName": "Stockholm",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -18.89999999999999,
+      "winParty": "D",
+      "countyName": "Monhegan Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -18.89999999999999,
+      "winParty": "R",
+      "countyName": "Rich",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.799999999999997,
+      "winParty": "R",
+      "countyName": "Edinburg",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 18.799999999999997,
+      "winParty": "R",
+      "countyName": "Talmadge",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.799999999999997,
+      "winParty": "R",
+      "countyName": "Edinburg",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.799999999999997,
+      "winParty": "R",
+      "countyName": "Edinburg",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.700000000000003,
+      "winParty": "R",
+      "countyName": "Stark",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.700000000000003,
+      "winParty": "R",
+      "countyName": "Stark",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.700000000000003,
+      "winParty": "R",
+      "countyName": "Stark",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.6,
+      "winParty": "R",
+      "countyName": "Iron",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.599999999999994,
+      "winParty": "R",
+      "countyName": "Henderson",
+      "stateName": "",
+      "stateCode": "IL"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.599999999999994,
+      "winParty": "R",
+      "countyName": "West Forks Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.599999999999994,
+      "winParty": "R",
+      "countyName": "Henderson",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.599999999999994,
+      "winParty": "R",
+      "countyName": "West Forks Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.599999999999994,
+      "winParty": "R",
+      "countyName": "Henderson",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.599999999999994,
+      "winParty": "R",
+      "countyName": "West Forks Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -18.400000000000006,
+      "winParty": "D",
+      "countyName": "Jim Hogg",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.299999999999997,
+      "winParty": "R",
+      "countyName": "Drew Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.299999999999997,
+      "winParty": "R",
+      "countyName": "Winterville Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.299999999999997,
+      "winParty": "R",
+      "countyName": "Vinton",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.299999999999997,
+      "winParty": "R",
+      "countyName": "Winterville Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.299999999999997,
+      "winParty": "R",
+      "countyName": "Winterville Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 18.199999999999996,
+      "winParty": "R",
+      "countyName": "Morgan",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.1,
+      "winParty": "R",
+      "countyName": "Belvidere",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.1,
+      "winParty": "R",
+      "countyName": "Belvidere",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.1,
+      "winParty": "R",
+      "countyName": "Belvidere",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.099999999999994,
+      "winParty": "R",
+      "countyName": "Calhoun",
+      "stateName": "",
+      "stateCode": "WV"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.0,
+      "winParty": "R",
+      "countyName": "Richford",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.0,
+      "winParty": "R",
+      "countyName": "Richford",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 18.0,
+      "winParty": "R",
+      "countyName": "Richford",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.9,
+      "winParty": "D",
+      "countyName": "New Canaan",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 17.9,
+      "winParty": "D",
+      "countyName": "Franklin Cty Townships",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.9,
+      "winParty": "D",
+      "countyName": "New Canaan",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 17.9,
+      "winParty": "D",
+      "countyName": "Franklin Cty Townships",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.9,
+      "winParty": "D",
+      "countyName": "New Canaan",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 17.9,
+      "winParty": "D",
+      "countyName": "Franklin Cty Townships",
+      "stateName": "",
+      "stateCode": "Flipped Thrice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -17.800000000000004,
+      "winParty": "D",
+      "countyName": "Peru",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.800000000000004,
+      "winParty": "R",
+      "countyName": "Washington",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -17.799999999999997,
+      "winParty": "D",
+      "countyName": "Stockholm",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -17.799999999999997,
+      "winParty": "D",
+      "countyName": "Stockholm",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -17.799999999999997,
+      "winParty": "D",
+      "countyName": "Stockholm",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.700000000000003,
+      "winParty": "R",
+      "countyName": "Chapman",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 17.700000000000003,
+      "winParty": "R",
+      "countyName": "Box Elder",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.700000000000003,
+      "winParty": "R",
+      "countyName": "Chapman",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.700000000000003,
+      "winParty": "R",
+      "countyName": "Chapman",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.699999999999996,
+      "winParty": "R",
+      "countyName": "Gilead",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.699999999999996,
+      "winParty": "R",
+      "countyName": "Northumberland",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.699999999999996,
+      "winParty": "R",
+      "countyName": "Gilead",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.699999999999996,
+      "winParty": "R",
+      "countyName": "Northumberland",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.699999999999996,
+      "winParty": "R",
+      "countyName": "Gilead",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.699999999999996,
+      "winParty": "R",
+      "countyName": "Northumberland",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.599999999999994,
+      "winParty": "R",
+      "countyName": "St. John Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.599999999999994,
+      "winParty": "R",
+      "countyName": "St. John Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.599999999999994,
+      "winParty": "R",
+      "countyName": "St. John Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.500000000000004,
+      "winParty": "R",
+      "countyName": "Eden",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.500000000000004,
+      "winParty": "R",
+      "countyName": "Eden",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.500000000000004,
+      "winParty": "R",
+      "countyName": "Eden",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.5,
+      "winParty": "R",
+      "countyName": "Hamlin",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.5,
+      "winParty": "R",
+      "countyName": "Hamlin",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.5,
+      "winParty": "R",
+      "countyName": "Hamlin",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.400000000000006,
+      "winParty": "R",
+      "countyName": "Schuyler",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.4,
+      "winParty": "R",
+      "countyName": "Seboeis Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.4,
+      "winParty": "R",
+      "countyName": "Seboeis Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.4,
+      "winParty": "R",
+      "countyName": "Seboeis Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Thrice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.300000000000004,
+      "winParty": "R",
+      "countyName": "Baileyville",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.300000000000004,
+      "winParty": "R",
+      "countyName": "Lincoln Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.300000000000004,
+      "winParty": "R",
+      "countyName": "Juneau",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.300000000000004,
+      "winParty": "R",
+      "countyName": "Baileyville",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.300000000000004,
+      "winParty": "R",
+      "countyName": "Lincoln Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.300000000000004,
+      "winParty": "R",
+      "countyName": "Juneau",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.300000000000004,
+      "winParty": "R",
+      "countyName": "Baileyville",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.300000000000004,
+      "winParty": "R",
+      "countyName": "Lincoln Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.300000000000004,
+      "winParty": "R",
+      "countyName": "Juneau",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.299999999999997,
+      "winParty": "R",
+      "countyName": "Pike",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.199999999999996,
+      "winParty": "R",
+      "countyName": "Perry",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.199999999999996,
+      "winParty": "R",
+      "countyName": "Sheffield",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.199999999999996,
+      "winParty": "R",
+      "countyName": "Sheffield",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.199999999999996,
+      "winParty": "R",
+      "countyName": "Sheffield",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.10000000000001,
+      "winParty": "R",
+      "countyName": "Grundy",
+      "stateName": "",
+      "stateCode": "TN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -17.1,
+      "winParty": "D",
+      "countyName": "Guadalupe",
+      "stateName": "",
+      "stateCode": "NM"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -17.1,
+      "winParty": "D",
+      "countyName": "Hardwick",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 17.099999999999994,
+      "winParty": "R",
+      "countyName": "Sanpete",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 17.099999999999994,
+      "winParty": "R",
+      "countyName": "Utah",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.099999999999994,
+      "winParty": "R",
+      "countyName": "Brunswick",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.099999999999994,
+      "winParty": "R",
+      "countyName": "Brunswick",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.099999999999994,
+      "winParty": "R",
+      "countyName": "Brunswick",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -17.000000000000007,
+      "winParty": "D",
+      "countyName": "Middlefield",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 17.0,
+      "winParty": "D",
+      "countyName": "Weston",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 17.0,
+      "winParty": "D",
+      "countyName": "Lemington",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -17.0,
+      "winParty": "D",
+      "countyName": "Montgomery",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 17.0,
+      "winParty": "D",
+      "countyName": "Lemington",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 17.0,
+      "winParty": "D",
+      "countyName": "Lemington",
+      "stateName": "",
+      "stateCode": "Flipped Thrice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.900000000000006,
+      "winParty": "D",
+      "countyName": "Penobscot Nation Vot Dst",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.9,
+      "winParty": "R",
+      "countyName": "Hocking",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.9,
+      "winParty": "R",
+      "countyName": "Morgan",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 16.799999999999997,
+      "winParty": "R",
+      "countyName": "Franklin",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.799999999999997,
+      "winParty": "R",
+      "countyName": "Magalloway Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.799999999999997,
+      "winParty": "R",
+      "countyName": "Moscow",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.799999999999997,
+      "winParty": "D",
+      "countyName": "Rolette",
+      "stateName": "",
+      "stateCode": "ND"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.799999999999997,
+      "winParty": "R",
+      "countyName": "Scioto",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.799999999999997,
+      "winParty": "R",
+      "countyName": "Moscow",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.799999999999997,
+      "winParty": "R",
+      "countyName": "Moscow",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 16.700000000000003,
+      "winParty": "D",
+      "countyName": "Pleasant Point Votng Dst",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.700000000000003,
+      "winParty": "R",
+      "countyName": "Franklin Cty Townships",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.700000000000003,
+      "winParty": "R",
+      "countyName": "Houston",
+      "stateName": "",
+      "stateCode": "TN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.700000000000003,
+      "winParty": "R",
+      "countyName": "Franklin Cty Townships",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.700000000000003,
+      "winParty": "R",
+      "countyName": "Franklin Cty Townships",
+      "stateName": "",
+      "stateCode": "Flipped Thrice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.699999999999996,
+      "winParty": "R",
+      "countyName": "Fort Kent",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.699999999999996,
+      "winParty": "R",
+      "countyName": "Berkshire",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.699999999999996,
+      "winParty": "R",
+      "countyName": "Fort Kent",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.699999999999996,
+      "winParty": "R",
+      "countyName": "Berkshire",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.699999999999996,
+      "winParty": "R",
+      "countyName": "Fort Kent",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.699999999999996,
+      "winParty": "R",
+      "countyName": "Berkshire",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 16.6,
+      "winParty": "R",
+      "countyName": "Reeves",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.6,
+      "winParty": "R",
+      "countyName": "Lunenburg",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 16.6,
+      "winParty": "R",
+      "countyName": "Reeves",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.6,
+      "winParty": "R",
+      "countyName": "Lunenburg",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 16.6,
+      "winParty": "R",
+      "countyName": "Reeves",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.6,
+      "winParty": "R",
+      "countyName": "Lunenburg",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.5,
+      "winParty": "D",
+      "countyName": "Indian Township Vtng Dst",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.5,
+      "winParty": "R",
+      "countyName": "Milan",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.5,
+      "winParty": "D",
+      "countyName": "West Haven",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.5,
+      "winParty": "R",
+      "countyName": "West Rutland",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.5,
+      "winParty": "R",
+      "countyName": "Alleghany",
+      "stateName": "",
+      "stateCode": "VA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.5,
+      "winParty": "R",
+      "countyName": "Milan",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.5,
+      "winParty": "D",
+      "countyName": "West Haven",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.5,
+      "winParty": "R",
+      "countyName": "West Rutland",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.5,
+      "winParty": "R",
+      "countyName": "Milan",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.5,
+      "winParty": "D",
+      "countyName": "West Haven",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.5,
+      "winParty": "R",
+      "countyName": "West Rutland",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.400000000000006,
+      "winParty": "D",
+      "countyName": "Enosburgh",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.400000000000006,
+      "winParty": "D",
+      "countyName": "Pownal",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.400000000000006,
+      "winParty": "D",
+      "countyName": "Whiting",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.400000000000006,
+      "winParty": "D",
+      "countyName": "Enosburgh",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.400000000000006,
+      "winParty": "D",
+      "countyName": "Pownal",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.400000000000006,
+      "winParty": "D",
+      "countyName": "Enosburgh",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.400000000000006,
+      "winParty": "D",
+      "countyName": "Pownal",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 16.4,
+      "winParty": "D",
+      "countyName": "Highland Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.4,
+      "winParty": "D",
+      "countyName": "Cheshire",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 16.4,
+      "winParty": "D",
+      "countyName": "Highland Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 16.4,
+      "winParty": "D",
+      "countyName": "Highland Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.39999999999999,
+      "winParty": "R",
+      "countyName": "Mason",
+      "stateName": "",
+      "stateCode": "WV"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.299999999999997,
+      "winParty": "D",
+      "countyName": "Adams",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.299999999999997,
+      "winParty": "D",
+      "countyName": "Hinsdale",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 16.299999999999997,
+      "winParty": "R",
+      "countyName": "Davis",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.200000000000003,
+      "winParty": "D",
+      "countyName": "Dover",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.200000000000003,
+      "winParty": "D",
+      "countyName": "Dover",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.200000000000003,
+      "winParty": "D",
+      "countyName": "Dover",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.199999999999996,
+      "winParty": "R",
+      "countyName": "Alexander",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.199999999999996,
+      "winParty": "R",
+      "countyName": "Ashland",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.199999999999996,
+      "winParty": "D",
+      "countyName": "Florida",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.199999999999996,
+      "winParty": "R",
+      "countyName": "Coshocton",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.199999999999996,
+      "winParty": "R",
+      "countyName": "Ashland",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.199999999999996,
+      "winParty": "D",
+      "countyName": "Florida",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.199999999999996,
+      "winParty": "R",
+      "countyName": "Ashland",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -16.199999999999996,
+      "winParty": "D",
+      "countyName": "Florida",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Jackson",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Avon",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Lake View Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Livermore Falls",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Brownington",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Jackson",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Avon",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Lake View Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Livermore Falls",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Brownington",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Jackson",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Avon",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Lake View Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Livermore Falls",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.1,
+      "winParty": "R",
+      "countyName": "Brownington",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -16.099999999999994,
+      "winParty": "D",
+      "countyName": "Lawrence",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.0,
+      "winParty": "R",
+      "countyName": "Portage Lake",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.0,
+      "winParty": "R",
+      "countyName": "Rumford",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.0,
+      "winParty": "R",
+      "countyName": "Portage Lake",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.0,
+      "winParty": "R",
+      "countyName": "Rumford",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.0,
+      "winParty": "R",
+      "countyName": "Portage Lake",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 16.0,
+      "winParty": "R",
+      "countyName": "Rumford",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.899999999999999,
+      "winParty": "R",
+      "countyName": "Wayne",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.899999999999999,
+      "winParty": "D",
+      "countyName": "Ellsworth",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.899999999999991,
+      "winParty": "R",
+      "countyName": "Harrison",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.800000000000004,
+      "winParty": "R",
+      "countyName": "Adams",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.800000000000004,
+      "winParty": "R",
+      "countyName": "Monticello",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.799999999999997,
+      "winParty": "R",
+      "countyName": "Worth",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.799999999999997,
+      "winParty": "R",
+      "countyName": "Hill",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -15.799999999999997,
+      "winParty": "D",
+      "countyName": "Duval",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.799999999999997,
+      "winParty": "R",
+      "countyName": "Worth",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.799999999999997,
+      "winParty": "R",
+      "countyName": "Hill",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -15.799999999999997,
+      "winParty": "D",
+      "countyName": "Duval",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.799999999999997,
+      "winParty": "R",
+      "countyName": "Worth",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.799999999999997,
+      "winParty": "R",
+      "countyName": "Hill",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -15.799999999999997,
+      "winParty": "D",
+      "countyName": "Duval",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.700000000000003,
+      "winParty": "R",
+      "countyName": "Gallatin",
+      "stateName": "",
+      "stateCode": "KY"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.700000000000003,
+      "winParty": "D",
+      "countyName": "Wellesley",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.700000000000003,
+      "winParty": "R",
+      "countyName": "Wentworth's Location",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.700000000000003,
+      "winParty": "R",
+      "countyName": "Windsor",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.700000000000003,
+      "winParty": "R",
+      "countyName": "Jackson",
+      "stateName": "",
+      "stateCode": "TN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.700000000000003,
+      "winParty": "R",
+      "countyName": "Perry",
+      "stateName": "",
+      "stateCode": "TN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.700000000000003,
+      "winParty": "D",
+      "countyName": "Halifax",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.600000000000009,
+      "winParty": "R",
+      "countyName": "Millard",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.600000000000001,
+      "winParty": "R",
+      "countyName": "Carroll",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Hartford",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Sabattus",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Swift",
+      "stateName": "",
+      "stateCode": "MN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Guernsey",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.5,
+      "winParty": "R",
+      "countyName": "Garfield",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Tooele",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Hartford",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Sabattus",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Swift",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Hartford",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Sabattus",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.5,
+      "winParty": "R",
+      "countyName": "Swift",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.399999999999999,
+      "winParty": "R",
+      "countyName": "Errol",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.399999999999999,
+      "winParty": "R",
+      "countyName": "Meigs",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.399999999999999,
+      "winParty": "R",
+      "countyName": "Sheldon",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.399999999999999,
+      "winParty": "R",
+      "countyName": "Sheldon",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.399999999999999,
+      "winParty": "R",
+      "countyName": "Sheldon",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -15.399999999999991,
+      "winParty": "D",
+      "countyName": "Brooks",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.300000000000004,
+      "winParty": "D",
+      "countyName": "Waterbury",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.300000000000004,
+      "winParty": "R",
+      "countyName": "Mattawamkeag",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.300000000000004,
+      "winParty": "R",
+      "countyName": "Mattawamkeag",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.300000000000004,
+      "winParty": "R",
+      "countyName": "Mattawamkeag",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.299999999999997,
+      "winParty": "R",
+      "countyName": "Monroe",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.299999999999997,
+      "winParty": "R",
+      "countyName": "Clinton",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.299999999999997,
+      "winParty": "D",
+      "countyName": "Woodford",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.299999999999997,
+      "winParty": "R",
+      "countyName": "Clinton",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.299999999999997,
+      "winParty": "D",
+      "countyName": "Woodford",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.299999999999997,
+      "winParty": "R",
+      "countyName": "Clinton",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.299999999999997,
+      "winParty": "D",
+      "countyName": "Woodford",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.200000000000003,
+      "winParty": "D",
+      "countyName": "Brunswick",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.200000000000003,
+      "winParty": "D",
+      "countyName": "Carlton",
+      "stateName": "",
+      "stateCode": "MN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.200000000000003,
+      "winParty": "D",
+      "countyName": "Winchester",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.200000000000003,
+      "winParty": "D",
+      "countyName": "Fletcher",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.200000000000003,
+      "winParty": "D",
+      "countyName": "Wolcott",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.200000000000003,
+      "winParty": "D",
+      "countyName": "Carlton",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.200000000000003,
+      "winParty": "D",
+      "countyName": "Winchester",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.200000000000003,
+      "winParty": "D",
+      "countyName": "Carlton",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.200000000000003,
+      "winParty": "D",
+      "countyName": "Winchester",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.199999999999996,
+      "winParty": "R",
+      "countyName": "Switzerland",
+      "stateName": "",
+      "stateCode": "IN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.199999999999996,
+      "winParty": "R",
+      "countyName": "Menifee",
+      "stateName": "",
+      "stateCode": "KY"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.199999999999996,
+      "winParty": "R",
+      "countyName": "Stewart",
+      "stateName": "",
+      "stateCode": "TN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.100000000000001,
+      "winParty": "D",
+      "countyName": "Deer Lodge",
+      "stateName": "",
+      "stateCode": "MT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.099999999999994,
+      "winParty": "R",
+      "countyName": "Kidder",
+      "stateName": "",
+      "stateCode": "ND"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.099999999999994,
+      "winParty": "R",
+      "countyName": "Van Buren",
+      "stateName": "",
+      "stateCode": "TN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.099999999999994,
+      "winParty": "D",
+      "countyName": "Albany",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.099999999999994,
+      "winParty": "R",
+      "countyName": "Webster",
+      "stateName": "",
+      "stateCode": "WV"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.000000000000007,
+      "winParty": "D",
+      "countyName": "Gorham",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.0,
+      "winParty": "R",
+      "countyName": "Leeds",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.0,
+      "winParty": "D",
+      "countyName": "St. Francis",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 15.0,
+      "winParty": "R",
+      "countyName": "Wesley",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.0,
+      "winParty": "D",
+      "countyName": "Fall River",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.0,
+      "winParty": "R",
+      "countyName": "Covington",
+      "stateName": "",
+      "stateCode": "VA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.0,
+      "winParty": "R",
+      "countyName": "Leeds",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.0,
+      "winParty": "D",
+      "countyName": "St. Francis",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.0,
+      "winParty": "D",
+      "countyName": "Fall River",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.0,
+      "winParty": "R",
+      "countyName": "Covington",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.0,
+      "winParty": "R",
+      "countyName": "Leeds",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.0,
+      "winParty": "D",
+      "countyName": "St. Francis",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -15.0,
+      "winParty": "D",
+      "countyName": "Fall River",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 15.0,
+      "winParty": "R",
+      "countyName": "Covington",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.999999999999993,
+      "winParty": "R",
+      "countyName": "Appanoose",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.900000000000006,
+      "winParty": "R",
+      "countyName": "Ringgold",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.900000000000006,
+      "winParty": "R",
+      "countyName": "Noble",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.900000000000006,
+      "winParty": "R",
+      "countyName": "Forest",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.900000000000006,
+      "winParty": "R",
+      "countyName": "Forest",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.900000000000006,
+      "winParty": "R",
+      "countyName": "Forest",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.899999999999999,
+      "winParty": "R",
+      "countyName": "Scott",
+      "stateName": "",
+      "stateCode": "IN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.899999999999999,
+      "winParty": "R",
+      "countyName": "Starke",
+      "stateName": "",
+      "stateCode": "IN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.899999999999999,
+      "winParty": "R",
+      "countyName": "Winn",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.899999999999999,
+      "winParty": "R",
+      "countyName": "Coventry",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.899999999999999,
+      "winParty": "R",
+      "countyName": "Dickenson",
+      "stateName": "",
+      "stateCode": "VA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.899999999999999,
+      "winParty": "R",
+      "countyName": "Coventry",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.899999999999999,
+      "winParty": "R",
+      "countyName": "Coventry",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -14.899999999999991,
+      "winParty": "R",
+      "countyName": "Drew Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.899999999999991,
+      "winParty": "D",
+      "countyName": "Sioux",
+      "stateName": "",
+      "stateCode": "ND"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.800000000000004,
+      "winParty": "R",
+      "countyName": "Chickasaw",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.800000000000004,
+      "winParty": "R",
+      "countyName": "Passadumkeag",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.800000000000004,
+      "winParty": "D",
+      "countyName": "Poultney",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.800000000000004,
+      "winParty": "R",
+      "countyName": "Alburg",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.800000000000004,
+      "winParty": "R",
+      "countyName": "Chickasaw",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.800000000000004,
+      "winParty": "D",
+      "countyName": "Poultney",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.800000000000004,
+      "winParty": "R",
+      "countyName": "Chickasaw",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.800000000000004,
+      "winParty": "D",
+      "countyName": "Poultney",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.799999999999997,
+      "winParty": "R",
+      "countyName": "Eagle Lake",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.799999999999997,
+      "winParty": "R",
+      "countyName": "Middleton",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.799999999999997,
+      "winParty": "R",
+      "countyName": "Eagle Lake",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.799999999999997,
+      "winParty": "R",
+      "countyName": "Eagle Lake",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.700000000000003,
+      "winParty": "R",
+      "countyName": "Wapello",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.700000000000003,
+      "winParty": "R",
+      "countyName": "Ste. Genevieve",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.700000000000003,
+      "winParty": "R",
+      "countyName": "Shannon",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.700000000000003,
+      "winParty": "R",
+      "countyName": "Belmont",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.700000000000003,
+      "winParty": "R",
+      "countyName": "Wapello",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.700000000000003,
+      "winParty": "R",
+      "countyName": "Wapello",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.699999999999996,
+      "winParty": "R",
+      "countyName": "Smyrna",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.699999999999996,
+      "winParty": "D",
+      "countyName": "Glover",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.600000000000009,
+      "winParty": "R",
+      "countyName": "Sterling",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.600000000000009,
+      "winParty": "R",
+      "countyName": "Topsfield",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.600000000000009,
+      "winParty": "R",
+      "countyName": "Wayne",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.600000000000001,
+      "winParty": "R",
+      "countyName": "Anson",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.600000000000001,
+      "winParty": "R",
+      "countyName": "Highgate",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.600000000000001,
+      "winParty": "R",
+      "countyName": "Anson",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.600000000000001,
+      "winParty": "R",
+      "countyName": "Highgate",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.600000000000001,
+      "winParty": "R",
+      "countyName": "Anson",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.600000000000001,
+      "winParty": "R",
+      "countyName": "Highgate",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.599999999999994,
+      "winParty": "R",
+      "countyName": "Fayette",
+      "stateName": "",
+      "stateCode": "IN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.500000000000007,
+      "winParty": "R",
+      "countyName": "Brooke",
+      "stateName": "",
+      "stateCode": "WV"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Monona",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Carter",
+      "stateName": "",
+      "stateCode": "KY"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Beals",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Chesterville",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Stacyville",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Adams",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Canaan",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Chesterville",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Canaan",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Chesterville",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.5,
+      "winParty": "R",
+      "countyName": "Canaan",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.400000000000006,
+      "winParty": "D",
+      "countyName": "Warwick",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.400000000000006,
+      "winParty": "R",
+      "countyName": "Readsboro",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.400000000000006,
+      "winParty": "R",
+      "countyName": "Readsboro",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.400000000000006,
+      "winParty": "R",
+      "countyName": "Readsboro",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "Limestone",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "West Paris",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "Hickory",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "Iron",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "Limestone",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "West Paris",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "Iron",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "Limestone",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "West Paris",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.399999999999999,
+      "winParty": "R",
+      "countyName": "Iron",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.399999999999991,
+      "winParty": "D",
+      "countyName": "Vinalhaven",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.300000000000004,
+      "winParty": "R",
+      "countyName": "Bonneville",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.300000000000004,
+      "winParty": "D",
+      "countyName": "Cohasset",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.300000000000004,
+      "winParty": "R",
+      "countyName": "Ashtabula",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.300000000000004,
+      "winParty": "D",
+      "countyName": "Cohasset",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.300000000000004,
+      "winParty": "R",
+      "countyName": "Ashtabula",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.300000000000004,
+      "winParty": "D",
+      "countyName": "Cohasset",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.300000000000004,
+      "winParty": "R",
+      "countyName": "Ashtabula",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.299999999999997,
+      "winParty": "R",
+      "countyName": "Jennings",
+      "stateName": "",
+      "stateCode": "IN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.299999999999997,
+      "winParty": "R",
+      "countyName": "Jackman",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 14.299999999999997,
+      "winParty": "D",
+      "countyName": "Stockbridge",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.200000000000003,
+      "winParty": "R",
+      "countyName": "Plymouth",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 14.200000000000003,
+      "winParty": "D",
+      "countyName": "Sandy River Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.200000000000003,
+      "winParty": "R",
+      "countyName": "Jefferson",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 14.200000000000003,
+      "winParty": "R",
+      "countyName": "Maverick",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.200000000000003,
+      "winParty": "R",
+      "countyName": "Wayne",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 14.200000000000003,
+      "winParty": "R",
+      "countyName": "Maverick",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": 14.200000000000003,
+      "winParty": "R",
+      "countyName": "Maverick",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.199999999999996,
+      "winParty": "R",
+      "countyName": "Keokuk",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.199999999999996,
+      "winParty": "R",
+      "countyName": "Lucas",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.100000000000009,
+      "winParty": "R",
+      "countyName": "Bracken",
+      "stateName": "",
+      "stateCode": "KY"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 14.100000000000009,
+      "winParty": "R",
+      "countyName": "Millard",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.100000000000001,
+      "winParty": "R",
+      "countyName": "Osborn",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.100000000000001,
+      "winParty": "R",
+      "countyName": "Knox",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.100000000000001,
+      "winParty": "D",
+      "countyName": "Clinton",
+      "stateName": "",
+      "stateCode": "NY"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.100000000000001,
+      "winParty": "R",
+      "countyName": "Schuylkill",
+      "stateName": "",
+      "stateCode": "PA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.100000000000001,
+      "winParty": "R",
+      "countyName": "Guildhall",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.100000000000001,
+      "winParty": "D",
+      "countyName": "Clinton",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.100000000000001,
+      "winParty": "R",
+      "countyName": "Guildhall",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.100000000000001,
+      "winParty": "D",
+      "countyName": "Clinton",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.100000000000001,
+      "winParty": "R",
+      "countyName": "Guildhall",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.099999999999994,
+      "winParty": "R",
+      "countyName": "Unity",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 14.099999999999994,
+      "winParty": "R",
+      "countyName": "Edwards",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.099999999999994,
+      "winParty": "R",
+      "countyName": "Unity",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.099999999999994,
+      "winParty": "R",
+      "countyName": "Unity",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -14.0,
+      "winParty": "R",
+      "countyName": "Oneida",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 14.0,
+      "winParty": "D",
+      "countyName": "Coplin Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.0,
+      "winParty": "R",
+      "countyName": "Gallia",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.0,
+      "winParty": "R",
+      "countyName": "Fair Haven",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 14.0,
+      "winParty": "D",
+      "countyName": "Coplin Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.0,
+      "winParty": "R",
+      "countyName": "Fair Haven",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 14.0,
+      "winParty": "R",
+      "countyName": "Fair Haven",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 14.0,
+      "winParty": "D",
+      "countyName": "Coplin Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.999999999999993,
+      "winParty": "R",
+      "countyName": "Gallatin",
+      "stateName": "",
+      "stateCode": "IL"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.900000000000006,
+      "winParty": "D",
+      "countyName": "Hinsdale",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.900000000000006,
+      "winParty": "R",
+      "countyName": "Oliver",
+      "stateName": "",
+      "stateCode": "ND"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.900000000000006,
+      "winParty": "R",
+      "countyName": "Benson",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.900000000000006,
+      "winParty": "R",
+      "countyName": "Benson",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.900000000000006,
+      "winParty": "R",
+      "countyName": "Benson",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Plainfield",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Lee",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Stoneham",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "D",
+      "countyName": "Medfield",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "D",
+      "countyName": "Sherborn",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Todd",
+      "stateName": "",
+      "stateCode": "MN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Dorchester",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Johnston",
+      "stateName": "",
+      "stateCode": "RI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.899999999999999,
+      "winParty": "D",
+      "countyName": "Woonsocket",
+      "stateName": "",
+      "stateCode": "RI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.899999999999999,
+      "winParty": "D",
+      "countyName": "Brandon",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Plainfield",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Lee",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Stoneham",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "D",
+      "countyName": "Medfield",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Johnston",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.899999999999999,
+      "winParty": "D",
+      "countyName": "Woonsocket",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Plainfield",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Lee",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "D",
+      "countyName": "Medfield",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Johnston",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.899999999999999,
+      "winParty": "D",
+      "countyName": "Woonsocket",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999999,
+      "winParty": "R",
+      "countyName": "Stoneham",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.899999999999991,
+      "winParty": "R",
+      "countyName": "Carroll Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.800000000000004,
+      "winParty": "R",
+      "countyName": "Scott",
+      "stateName": "",
+      "stateCode": "IL"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.800000000000004,
+      "winParty": "R",
+      "countyName": "Taylor",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.800000000000004,
+      "winParty": "R",
+      "countyName": "Halifax",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.800000000000004,
+      "winParty": "R",
+      "countyName": "Worth",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.800000000000004,
+      "winParty": "D",
+      "countyName": "Cibola",
+      "stateName": "",
+      "stateCode": "NM"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.800000000000004,
+      "winParty": "R",
+      "countyName": "Burrillville",
+      "stateName": "",
+      "stateCode": "RI"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": 13.800000000000004,
+      "winParty": "D",
+      "countyName": "Plymouth",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.800000000000004,
+      "winParty": "R",
+      "countyName": "Burrillville",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.800000000000004,
+      "winParty": "R",
+      "countyName": "Burrillville",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.799999999999997,
+      "winParty": "R",
+      "countyName": "Sullivan",
+      "stateName": "",
+      "stateCode": "MO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.799999999999997,
+      "winParty": "R",
+      "countyName": "Columbiana",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.799999999999997,
+      "winParty": "R",
+      "countyName": "Washington",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.799999999999997,
+      "winParty": "R",
+      "countyName": "Concord",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.799999999999997,
+      "winParty": "D",
+      "countyName": "Granville",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.799999999999997,
+      "winParty": "D",
+      "countyName": "Roxbury",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.799999999999997,
+      "winParty": "R",
+      "countyName": "Concord",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": 13.799999999999997,
+      "winParty": "R",
+      "countyName": "Concord",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.700000000000003,
+      "winParty": "D",
+      "countyName": "Becket",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.700000000000003,
+      "winParty": "D",
+      "countyName": "Heath",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.599999999999994,
+      "winParty": "D",
+      "countyName": "Johnson",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.5,
+      "winParty": "D",
+      "countyName": "Ashford",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.5,
+      "winParty": "D",
+      "countyName": "Windsor",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.499999999999993,
+      "winParty": "D",
+      "countyName": "Douglas",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.400000000000006,
+      "winParty": "R",
+      "countyName": "Jefferson",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.400000000000006,
+      "winParty": "D",
+      "countyName": "Caswell",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -13.400000000000006,
+      "winParty": "D",
+      "countyName": "Granville",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.400000000000006,
+      "winParty": "D",
+      "countyName": "Caswell",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.400000000000006,
+      "winParty": "D",
+      "countyName": "Caswell",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.399999999999999,
+      "winParty": "D",
+      "countyName": "Clarksburg",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.399999999999999,
+      "winParty": "D",
+      "countyName": "Ryegate",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.399999999999999,
+      "winParty": "D",
+      "countyName": "Ryegate",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.399999999999999,
+      "winParty": "D",
+      "countyName": "Ryegate",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.300000000000004,
+      "winParty": "D",
+      "countyName": "Charlemont",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.300000000000004,
+      "winParty": "D",
+      "countyName": "Mahoning",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -13.300000000000004,
+      "winParty": "D",
+      "countyName": "Webb",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.300000000000004,
+      "winParty": "D",
+      "countyName": "Mahoning",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -13.300000000000004,
+      "winParty": "D",
+      "countyName": "Webb",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.300000000000004,
+      "winParty": "D",
+      "countyName": "Mahoning",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -13.300000000000004,
+      "winParty": "D",
+      "countyName": "Webb",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.299999999999997,
+      "winParty": "D",
+      "countyName": "Piermont",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.299999999999997,
+      "winParty": "R",
+      "countyName": "Uintah",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.199999999999996,
+      "winParty": "D",
+      "countyName": "Buffalo",
+      "stateName": "",
+      "stateCode": "SD"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.100000000000009,
+      "winParty": "D",
+      "countyName": "Ashland",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.100000000000001,
+      "winParty": "D",
+      "countyName": "Lanesborough",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.0,
+      "winParty": "D",
+      "countyName": "Saguache",
+      "stateName": "",
+      "stateCode": "CO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.0,
+      "winParty": "R",
+      "countyName": "Bear Lake",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -13.0,
+      "winParty": "R",
+      "countyName": "Fremont",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.899999999999999,
+      "winParty": "D",
+      "countyName": "Montville",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.899999999999999,
+      "winParty": "D",
+      "countyName": "Lackawanna",
+      "stateName": "",
+      "stateCode": "PA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.899999999999991,
+      "winParty": "D",
+      "countyName": "Hyde Park",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.800000000000004,
+      "winParty": "D",
+      "countyName": "Hancock",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.599999999999994,
+      "winParty": "R",
+      "countyName": "Cassia",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.500000000000007,
+      "winParty": "D",
+      "countyName": "Silver Bow",
+      "stateName": "",
+      "stateCode": "MT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.5,
+      "winParty": "D",
+      "countyName": "Leicester",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.5,
+      "winParty": "D",
+      "countyName": "Proctor",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.5,
+      "winParty": "D",
+      "countyName": "Weathersfield",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.5,
+      "winParty": "R",
+      "countyName": "Racine",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.499999999999993,
+      "winParty": "D",
+      "countyName": "Colrain",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.399999999999999,
+      "winParty": "D",
+      "countyName": "Big Horn",
+      "stateName": "",
+      "stateCode": "MT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.399999999999999,
+      "winParty": "D",
+      "countyName": "Jay",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.399999999999999,
+      "winParty": "D",
+      "countyName": "Big Horn",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.399999999999999,
+      "winParty": "D",
+      "countyName": "Jay",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.399999999999999,
+      "winParty": "D",
+      "countyName": "Big Horn",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.399999999999999,
+      "winParty": "D",
+      "countyName": "Jay",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.300000000000004,
+      "winParty": "D",
+      "countyName": "North Providence",
+      "stateName": "",
+      "stateCode": "RI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.299999999999997,
+      "winParty": "D",
+      "countyName": "Somerset",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.299999999999997,
+      "winParty": "D",
+      "countyName": "Somerset",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.299999999999997,
+      "winParty": "D",
+      "countyName": "Somerset",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.200000000000003,
+      "winParty": "D",
+      "countyName": "New Bedford",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.200000000000003,
+      "winParty": "D",
+      "countyName": "North Adams",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -12.199999999999989,
+      "winParty": "D",
+      "countyName": "Zavala",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.100000000000001,
+      "winParty": "D",
+      "countyName": "Costilla",
+      "stateName": "",
+      "stateCode": "CO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.100000000000001,
+      "winParty": "D",
+      "countyName": "Mora",
+      "stateName": "",
+      "stateCode": "NM"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.100000000000001,
+      "winParty": "D",
+      "countyName": "Mount Tabor",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.100000000000001,
+      "winParty": "D",
+      "countyName": "Mount Tabor",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.100000000000001,
+      "winParty": "D",
+      "countyName": "Mount Tabor",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.099999999999994,
+      "winParty": "D",
+      "countyName": "Kirby",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.0,
+      "winParty": "D",
+      "countyName": "Lake",
+      "stateName": "",
+      "stateCode": "MN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -12.0,
+      "winParty": "D",
+      "countyName": "Cabot",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.800000000000004,
+      "winParty": "D",
+      "countyName": "St. Louis",
+      "stateName": "",
+      "stateCode": "MN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.799999999999997,
+      "winParty": "D",
+      "countyName": "Marlow",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.799999999999997,
+      "winParty": "D",
+      "countyName": "Marshfield",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.700000000000003,
+      "winParty": "D",
+      "countyName": "Biddeford",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.700000000000003,
+      "winParty": "D",
+      "countyName": "Dewey",
+      "stateName": "",
+      "stateCode": "SD"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.700000000000003,
+      "winParty": "D",
+      "countyName": "Bakersfield",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.700000000000003,
+      "winParty": "D",
+      "countyName": "Pawlet",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.699999999999996,
+      "winParty": "D",
+      "countyName": "Lewiston",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.599999999999994,
+      "winParty": "D",
+      "countyName": "Deer Isle",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.599999999999994,
+      "winParty": "R",
+      "countyName": "Sevier",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -11.5,
+      "winParty": "D",
+      "countyName": "Isle Au Haut",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.499999999999993,
+      "winParty": "D",
+      "countyName": "Sandisfield",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -11.300000000000011,
+      "winParty": "D",
+      "countyName": "Bronx",
+      "stateName": "",
+      "stateCode": "NY"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.299999999999997,
+      "winParty": "D",
+      "countyName": "Mount Holly",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.299999999999997,
+      "winParty": "D",
+      "countyName": "Walden",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -11.200000000000003,
+      "winParty": "D",
+      "countyName": "Revere",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.200000000000003,
+      "winParty": "D",
+      "countyName": "Warwick",
+      "stateName": "",
+      "stateCode": "RI"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -11.200000000000003,
+      "winParty": "D",
+      "countyName": "Willacy",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.200000000000003,
+      "winParty": "R",
+      "countyName": "Beaver",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -11.200000000000003,
+      "winParty": "D",
+      "countyName": "Willacy",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -11.200000000000003,
+      "winParty": "D",
+      "countyName": "Willacy",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.199999999999996,
+      "winParty": "D",
+      "countyName": "Tinmouth",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.199999999999996,
+      "winParty": "D",
+      "countyName": "Vershire",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.199999999999996,
+      "winParty": "D",
+      "countyName": "Tinmouth",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.199999999999996,
+      "winParty": "D",
+      "countyName": "Tinmouth",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.100000000000001,
+      "winParty": "D",
+      "countyName": "Otis",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.100000000000001,
+      "winParty": "D",
+      "countyName": "Stratford",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.100000000000001,
+      "winParty": "D",
+      "countyName": "Corinth",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.100000000000001,
+      "winParty": "D",
+      "countyName": "Tunbridge",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.100000000000001,
+      "winParty": "D",
+      "countyName": "Stratford",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.100000000000001,
+      "winParty": "D",
+      "countyName": "Stratford",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.099999999999994,
+      "winParty": "D",
+      "countyName": "Farmington",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.0,
+      "winParty": "D",
+      "countyName": "Gilpin",
+      "stateName": "",
+      "stateCode": "CO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.0,
+      "winParty": "D",
+      "countyName": "West Haven",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.0,
+      "winParty": "D",
+      "countyName": "Kauai",
+      "stateName": "",
+      "stateCode": "HI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.0,
+      "winParty": "D",
+      "countyName": "Sandy River Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.0,
+      "winParty": "R",
+      "countyName": "Bedford",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.0,
+      "winParty": "D",
+      "countyName": "Sudbury",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.0,
+      "winParty": "R",
+      "countyName": "Bedford",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -11.0,
+      "winParty": "R",
+      "countyName": "Bedford",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.999999999999993,
+      "winParty": "D",
+      "countyName": "Bennington",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.900000000000006,
+      "winParty": "D",
+      "countyName": "Braintree",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.899999999999999,
+      "winParty": "D",
+      "countyName": "Hawaii",
+      "stateName": "",
+      "stateCode": "HI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.899999999999999,
+      "winParty": "D",
+      "countyName": "Fairhaven",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.899999999999999,
+      "winParty": "D",
+      "countyName": "Fairfax",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.899999999999999,
+      "winParty": "D",
+      "countyName": "Sandgate",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.800000000000011,
+      "winParty": "R",
+      "countyName": "Bingham",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.800000000000004,
+      "winParty": "D",
+      "countyName": "Tremont",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.800000000000004,
+      "winParty": "D",
+      "countyName": "Westport",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -10.800000000000004,
+      "winParty": "D",
+      "countyName": "Queens",
+      "stateName": "",
+      "stateCode": "NY"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.800000000000004,
+      "winParty": "D",
+      "countyName": "Barton",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.800000000000004,
+      "winParty": "D",
+      "countyName": "Westport",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.800000000000004,
+      "winParty": "D",
+      "countyName": "Westport",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.799999999999997,
+      "winParty": "D",
+      "countyName": "Lubec",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -10.799999999999997,
+      "winParty": "D",
+      "countyName": "Chelsea",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.700000000000003,
+      "winParty": "D",
+      "countyName": "Alamosa",
+      "stateName": "",
+      "stateCode": "CO"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.700000000000003,
+      "winParty": "D",
+      "countyName": "Fryeburg",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.700000000000003,
+      "winParty": "D",
+      "countyName": "Leyden",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.700000000000003,
+      "winParty": "D",
+      "countyName": "Alstead",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.700000000000003,
+      "winParty": "D",
+      "countyName": "Alamosa",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.700000000000003,
+      "winParty": "D",
+      "countyName": "Alamosa",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.699999999999996,
+      "winParty": "D",
+      "countyName": "Norwich",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.699999999999996,
+      "winParty": "R",
+      "countyName": "Teton",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.699999999999996,
+      "winParty": "D",
+      "countyName": "Burke",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.699999999999996,
+      "winParty": "R",
+      "countyName": "Teton",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.699999999999996,
+      "winParty": "R",
+      "countyName": "Teton",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.600000000000009,
+      "winParty": "R",
+      "countyName": "Frenchboro",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.600000000000009,
+      "winParty": "R",
+      "countyName": "Frenchboro",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.600000000000009,
+      "winParty": "R",
+      "countyName": "Frenchboro",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.600000000000001,
+      "winParty": "D",
+      "countyName": "Muskegon",
+      "stateName": "",
+      "stateCode": "MI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.600000000000001,
+      "winParty": "D",
+      "countyName": "Muskegon",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.600000000000001,
+      "winParty": "D",
+      "countyName": "Muskegon",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.599999999999994,
+      "winParty": "D",
+      "countyName": "Meriden",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.599999999999994,
+      "winParty": "D",
+      "countyName": "Montague",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.599999999999994,
+      "winParty": "D",
+      "countyName": "Hidalgo",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.599999999999994,
+      "winParty": "D",
+      "countyName": "Hidalgo",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.599999999999994,
+      "winParty": "D",
+      "countyName": "Hidalgo",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.5,
+      "winParty": "R",
+      "countyName": "Caribou",
+      "stateName": "",
+      "stateCode": "ID"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.5,
+      "winParty": "D",
+      "countyName": "Kingsbury Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.5,
+      "winParty": "R",
+      "countyName": "Kane",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.5,
+      "winParty": "D",
+      "countyName": "Brookfield",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.5,
+      "winParty": "D",
+      "countyName": "Stockbridge",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.5,
+      "winParty": "D",
+      "countyName": "Windsor",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.5,
+      "winParty": "D",
+      "countyName": "Kingsbury Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.5,
+      "winParty": "D",
+      "countyName": "Kingsbury Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.399999999999999,
+      "winParty": "R",
+      "countyName": "Dorchester",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.399999999999991,
+      "winParty": "D",
+      "countyName": "Athens",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.300000000000004,
+      "winParty": "D",
+      "countyName": "Miami-Dade",
+      "stateName": "",
+      "stateCode": "FL"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.300000000000004,
+      "winParty": "D",
+      "countyName": "Bowdoinham",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.300000000000004,
+      "winParty": "D",
+      "countyName": "Miami-Dade",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.300000000000004,
+      "winParty": "D",
+      "countyName": "Miami-Dade",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.299999999999997,
+      "winParty": "D",
+      "countyName": "Gill",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -10.299999999999997,
+      "winParty": "D",
+      "countyName": "Dimmit",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.299999999999997,
+      "winParty": "D",
+      "countyName": "Athens",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.299999999999997,
+      "winParty": "D",
+      "countyName": "Royalton",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.200000000000003,
+      "winParty": "R",
+      "countyName": "Johnson",
+      "stateName": "",
+      "stateCode": "KS"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.200000000000003,
+      "winParty": "D",
+      "countyName": "Bernardston",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.200000000000003,
+      "winParty": "D",
+      "countyName": "Rio Arriba",
+      "stateName": "",
+      "stateCode": "NM"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.200000000000003,
+      "winParty": "D",
+      "countyName": "Newport",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.200000000000003,
+      "winParty": "R",
+      "countyName": "Johnson",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.200000000000003,
+      "winParty": "R",
+      "countyName": "Johnson",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.199999999999996,
+      "winParty": "D",
+      "countyName": "Chicopee",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.199999999999996,
+      "winParty": "D",
+      "countyName": "East Providence",
+      "stateName": "",
+      "stateCode": "RI"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -10.100000000000009,
+      "winParty": "D",
+      "countyName": "Hudson",
+      "stateName": "",
+      "stateCode": "NJ"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.100000000000009,
+      "winParty": "R",
+      "countyName": "Duchesne",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.100000000000001,
+      "winParty": "D",
+      "countyName": "Hancock",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -10.100000000000001,
+      "winParty": "R",
+      "countyName": "Wentworth",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.100000000000001,
+      "winParty": "D",
+      "countyName": "Randolph",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.099999999999994,
+      "winParty": "D",
+      "countyName": "Duxbury",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.099999999999994,
+      "winParty": "D",
+      "countyName": "Westfield",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.0,
+      "winParty": "D",
+      "countyName": "Greenwood",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.0,
+      "winParty": "D",
+      "countyName": "Newark",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.0,
+      "winParty": "D",
+      "countyName": "Newark",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -10.0,
+      "winParty": "D",
+      "countyName": "Newark",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.900000000000006,
+      "winParty": "D",
+      "countyName": "Windham",
+      "stateName": "",
+      "stateCode": "CT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.900000000000006,
+      "winParty": "D",
+      "countyName": "Duval",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.900000000000006,
+      "winParty": "D",
+      "countyName": "Duval",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.900000000000006,
+      "winParty": "D",
+      "countyName": "Duval",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.899999999999999,
+      "winParty": "D",
+      "countyName": "Lake",
+      "stateName": "",
+      "stateCode": "CO"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.899999999999999,
+      "winParty": "R",
+      "countyName": "Lincoln Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.899999999999999,
+      "winParty": "D",
+      "countyName": "Chesterfield",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.899999999999999,
+      "winParty": "D",
+      "countyName": "Everett",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.899999999999999,
+      "winParty": "D",
+      "countyName": "Canaan",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.899999999999999,
+      "winParty": "D",
+      "countyName": "El Paso",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.899999999999999,
+      "winParty": "D",
+      "countyName": "Springfield",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.899999999999999,
+      "winParty": "D",
+      "countyName": "Bayfield",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.899999999999999,
+      "winParty": "R",
+      "countyName": "Lincoln Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.899999999999999,
+      "winParty": "R",
+      "countyName": "Lincoln Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.899999999999991,
+      "winParty": "D",
+      "countyName": "Jamaica",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.800000000000011,
+      "winParty": "D",
+      "countyName": "Pleasant Point Votng Dst",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.800000000000004,
+      "winParty": "D",
+      "countyName": "Genesee",
+      "stateName": "",
+      "stateCode": "MI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.700000000000003,
+      "winParty": "D",
+      "countyName": "Augusta",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.700000000000003,
+      "winParty": "D",
+      "countyName": "Southbridge",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.700000000000003,
+      "winParty": "D",
+      "countyName": "Plainfield",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.699999999999996,
+      "winParty": "D",
+      "countyName": "Sedgwick",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.699999999999996,
+      "winParty": "R",
+      "countyName": "San Juan",
+      "stateName": "",
+      "stateCode": "UT"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.600000000000009,
+      "winParty": "R",
+      "countyName": "Hudson",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.600000000000001,
+      "winParty": "D",
+      "countyName": "Frye Island",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.600000000000001,
+      "winParty": "D",
+      "countyName": "Cumberland",
+      "stateName": "",
+      "stateCode": "NJ"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.600000000000001,
+      "winParty": "D",
+      "countyName": "St. Albans",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.600000000000001,
+      "winParty": "R",
+      "countyName": "Ozaukee",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.600000000000001,
+      "winParty": "D",
+      "countyName": "Frye Island",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.600000000000001,
+      "winParty": "D",
+      "countyName": "Cumberland",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.600000000000001,
+      "winParty": "D",
+      "countyName": "Frye Island",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.600000000000001,
+      "winParty": "D",
+      "countyName": "Cumberland",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.599999999999994,
+      "winParty": "D",
+      "countyName": "Maui",
+      "stateName": "",
+      "stateCode": "HI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.5,
+      "winParty": "R",
+      "countyName": "Hamilton",
+      "stateName": "",
+      "stateCode": "IN"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.5,
+      "winParty": "D",
+      "countyName": "Gardiner",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.5,
+      "winParty": "D",
+      "countyName": "Middletown Springs",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.5,
+      "winParty": "D",
+      "countyName": "Northfield",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.5,
+      "winParty": "D",
+      "countyName": "Rockingham",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.5,
+      "winParty": "D",
+      "countyName": "Green",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.499999999999993,
+      "winParty": "D",
+      "countyName": "McKinley",
+      "stateName": "",
+      "stateCode": "NM"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.400000000000006,
+      "winParty": "D",
+      "countyName": "Cummington",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.399999999999999,
+      "winParty": "D",
+      "countyName": "Monroe",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.399999999999999,
+      "winParty": "R",
+      "countyName": "Lynnfield",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.399999999999999,
+      "winParty": "D",
+      "countyName": "Albany",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.399999999999999,
+      "winParty": "D",
+      "countyName": "Campton",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.399999999999999,
+      "winParty": "D",
+      "countyName": "Cranston",
+      "stateName": "",
+      "stateCode": "RI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.399999999999999,
+      "winParty": "D",
+      "countyName": "Rutland",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.399999999999999,
+      "winParty": "R",
+      "countyName": "Lynnfield",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.399999999999999,
+      "winParty": "R",
+      "countyName": "Lynnfield",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -9.299999999999997,
+      "winParty": "D",
+      "countyName": "Central Falls",
+      "stateName": "",
+      "stateCode": "RI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.299999999999997,
+      "winParty": "D",
+      "countyName": "Woodbury",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.200000000000003,
+      "winParty": "D",
+      "countyName": "Old Town",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.200000000000003,
+      "winParty": "D",
+      "countyName": "Hawley",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.200000000000003,
+      "winParty": "D",
+      "countyName": "Iowa",
+      "stateName": "",
+      "stateCode": "WI"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -9.100000000000009,
+      "winParty": "D",
+      "countyName": "Lawrence",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -9.100000000000009,
+      "winParty": "D",
+      "countyName": "Lynn",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.100000000000009,
+      "winParty": "D",
+      "countyName": "San Miguel",
+      "stateName": "",
+      "stateCode": "NM"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.100000000000009,
+      "winParty": "D",
+      "countyName": "Wardsboro",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.100000000000001,
+      "winParty": "D",
+      "countyName": "Farmingdale",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.100000000000001,
+      "winParty": "D",
+      "countyName": "Sullivan",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.100000000000001,
+      "winParty": "D",
+      "countyName": "Sullivan",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.100000000000001,
+      "winParty": "D",
+      "countyName": "Sullivan",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.099999999999994,
+      "winParty": "D",
+      "countyName": "Wallingford",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "R",
+      "countyName": "Forsyth",
+      "stateName": "",
+      "stateCode": "GA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "D",
+      "countyName": "Rock Island",
+      "stateName": "",
+      "stateCode": "IL"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -9.0,
+      "winParty": "R",
+      "countyName": "Piscataquis Cty Townshps",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "D",
+      "countyName": "Acworth",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "R",
+      "countyName": "Hampton Falls",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "D",
+      "countyName": "Plymouth",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "D",
+      "countyName": "Bolton",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "D",
+      "countyName": "Cambridge",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "D",
+      "countyName": "Hubbardton",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "D",
+      "countyName": "Acworth",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -9.0,
+      "winParty": "D",
+      "countyName": "Acworth",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.999999999999993,
+      "winParty": "R",
+      "countyName": "Collin",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.999999999999993,
+      "winParty": "D",
+      "countyName": "Morristown",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.900000000000006,
+      "winParty": "D",
+      "countyName": "Waterville",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.900000000000006,
+      "winParty": "D",
+      "countyName": "Woodstock",
+      "stateName": "",
+      "stateCode": "NH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.899999999999999,
+      "winParty": "D",
+      "countyName": "Worthington",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.899999999999999,
+      "winParty": "D",
+      "countyName": "Berlin",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -8.899999999999999,
+      "winParty": "R",
+      "countyName": "Morgan",
+      "stateName": "",
+      "stateCode": "VT"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.799999999999997,
+      "winParty": "D",
+      "countyName": "Lake",
+      "stateName": "",
+      "stateCode": "CA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.799999999999997,
+      "winParty": "D",
+      "countyName": "Scott",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -8.799999999999997,
+      "winParty": "R",
+      "countyName": "Pleasant Ridge Plt.",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -8.799999999999997,
+      "winParty": "D",
+      "countyName": "Culberson",
+      "stateName": "",
+      "stateCode": "TX"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.799999999999997,
+      "winParty": "D",
+      "countyName": "Lake",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.799999999999997,
+      "winParty": "D",
+      "countyName": "Scott",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -8.799999999999997,
+      "winParty": "R",
+      "countyName": "Pleasant Ridge Plt.",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -8.799999999999997,
+      "winParty": "D",
+      "countyName": "Culberson",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.799999999999997,
+      "winParty": "D",
+      "countyName": "Lake",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.799999999999997,
+      "winParty": "D",
+      "countyName": "Scott",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2020,
+      "year2": 2024,
+      "mov": -8.799999999999997,
+      "winParty": "R",
+      "countyName": "Pleasant Ridge Plt.",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2016,
+      "year2": 2020,
+      "mov": -8.799999999999997,
+      "winParty": "D",
+      "countyName": "Culberson",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.700000000000003,
+      "winParty": "R",
+      "countyName": "Hanover",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.700000000000003,
+      "winParty": "D",
+      "countyName": "Plainfield",
+      "stateName": "",
+      "stateCode": "MA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.700000000000003,
+      "winParty": "D",
+      "countyName": "Warren",
+      "stateName": "",
+      "stateCode": "RI"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.700000000000003,
+      "winParty": "R",
+      "countyName": "Hanover",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.700000000000003,
+      "winParty": "R",
+      "countyName": "Hanover",
+      "stateName": "",
+      "stateCode": "Flipped Twice"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.699999999999996,
+      "winParty": "D",
+      "countyName": "Black Hawk",
+      "stateName": "",
+      "stateCode": "IA"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.699999999999996,
+      "winParty": "D",
+      "countyName": "Bethel",
+      "stateName": "",
+      "stateCode": "ME"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.699999999999996,
+      "winParty": "D",
+      "countyName": "Lorain",
+      "stateName": "",
+      "stateCode": "OH"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.699999999999996,
+      "winParty": "D",
+      "countyName": "Lorain",
+      "stateName": "",
+      "stateCode": "Counties Which Flipped"
+    },
+    {
+      "year1": 2012,
+      "year2": 2016,
+      "mov": -8.699999999999996,
+      "winParty": "D",
+      "countyName": "Lorain",
+      "stateName": "",
+      "stateCode": "Flipped Once"
+    }
+  ]
+}
