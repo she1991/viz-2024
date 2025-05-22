@@ -58,6 +58,8 @@
 
 svg {
     display: block;
+    height: auto;
+    min-height: 800px;
 }
 
 .select-button:hover {
