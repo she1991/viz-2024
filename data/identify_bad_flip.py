@@ -51,7 +51,7 @@ def check_flip_property(data):
     return issues
 
 # Read the input JSON file
-input_path = "../public/data/op-json_2.json"
+input_path = "public/data/op-json_2.json"
 
 try:
     # Read input file

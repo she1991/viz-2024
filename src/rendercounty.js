@@ -126,7 +126,7 @@ function handleCountyMouseout(event, d, context) {
 function renderCounty( countyData, flip, width, height ) {
     const countyCurveGroup = d3.create("svg:g")
         .attr("class", (d, i) => {
-            if (flip.some(value => value === true)) {
+            if (flip && flip.some(value => value === true)) {
                 return "county county-flip";
             }
             return "county";
@@ -206,7 +206,7 @@ function renderCounty( countyData, flip, width, height ) {
                     return "var(--republican-bold)";
             })
             .attr("opacity", (d, i) => {
-                if (flip.some(value => value === true)) {
+                if (flip && flip.some(value => value === true)) {
                     return 1;
                 }
                 return 0;

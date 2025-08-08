@@ -74,7 +74,7 @@ const MainSidePanel = (props) => {
                         <span style={{fontWeight: 400}}>Flipped Counties</span>
                     </div>
                     {props.visualizationData.map((state, i)=>{
-                        if(i < 51)
+                        if(i < 51 && state.state!="AK" && state.state!="DC")
                             return <SelectButton code={state.state} flipped={state.flipped} name={state.stateName} selected={props.selectedState == state.state} selectedState={props.selectedState} setSelectedState={props.setSelectedState}/>
                     })}
                 </div>

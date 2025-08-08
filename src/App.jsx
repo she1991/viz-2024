@@ -62,7 +62,7 @@ const App = (props) => {
         if(!isNaN(selectedFilter) && Number.isInteger(parseInt(selectedFilter))) {
             let stateDataFiltered = Object.assign({}, stateData);
             let countiesFiltered = stateDataFiltered.counties.filter(county => 
-                county.flip[parseInt(selectedFilter)] === true
+                county.flip && county.flip[parseInt(selectedFilter)] === true
             );
             console.log(countiesFiltered);
             stateDataFiltered.counties = countiesFiltered;
@@ -77,7 +77,7 @@ const App = (props) => {
         } else if(selectedFilter === "flipped") {
             let stateDataFiltered = Object.assign({}, stateData);
             let countiesFiltered = stateDataFiltered.counties.filter(county => 
-                county.flip.some(value => value === true)
+                county.flip && county.flip.some(value => value === true)
             );
             stateDataFiltered.counties = countiesFiltered;
             stateData = stateDataFiltered;
